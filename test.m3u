@@ -485,9 +485,9 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Çocuk
+#EXTINF:-1 group-title="DDoS (uz)", TRT ÇOCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", TRT Diyanet Çocuk
+#EXTINF:-1 group-title="DDoS (uz)", TRT DIYANET COCUK
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
@@ -509,3 +509,4 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
