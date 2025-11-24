@@ -243,9 +243,9 @@ http://s8.rafail1982.uz/1046/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Zooпарк
 http://s8.rafail1982.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Космический
+#EXTINF:-1 group-title="DDoS (uz)", Первый космический HD
 http://s8.rafail1982.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Инсайт ТВ
+#EXTINF:-1 group-title="DDoS (uz)", Инсайт ТВ UHD
 http://s8.rafail1982.uz/1416/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Приключения
 http://s8.rafail1982.uz/1420/tracks-v1a1/mono.m3u8
@@ -291,15 +291,15 @@ http://s8.rafail1982.uz/1208/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1257/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", TRT AVAZ
 http://s8.rafail1982.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Ля минор
+#EXTINF:-1 group-title="DDoS (uz)", Ля-минор ТВ
 http://s8.rafail1982.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Муз ТВ
+#EXTINF:-1 group-title="DDoS (uz)", МУЗ-ТВ
 http://s8.rafail1982.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Мир
 http://s8.rafail1982.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Мир 24
 http://s8.rafail1982.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Точка РФ
+#EXTINF:-1 group-title="DDoS (uz)", Точка.РФ HD
 http://s8.rafail1982.uz/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Кухня
 http://s8.rafail1982.uz/1236/tracks-v1a1/mono.m3u8
@@ -475,7 +475,7 @@ https://streamer1.connectto.com/466/mono.m3u8
 https://streamer1.connectto.com/467/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Премиальное HD
 https://streamer3.connectto.com/373/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Матч HD
+#EXTINF:-1 group-title="DDoS (uz)", Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Матч Премьер
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
@@ -509,5 +509,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
