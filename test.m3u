@@ -313,7 +313,7 @@ https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/MpZp7QBk/sport.png", Sport UZ
 http://s8.rafail1982.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/J7QrrCPZ/travel.png", TravelTV
+#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/J7fdzyNz/travel.png", TravelTV
 http://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/tJsDs5dg/biztv.png", BizTV UZ
 http://s8.rafail1982.uz/1211/tracks-v1a1/mono.m3u8
@@ -363,7 +363,7 @@ http://s8.rafail1982.uz/1206/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/pLMyrJz1/aql.png", Aqlvoy UZ
 http://s8.rafail1982.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/gk88gJDx/navo.png", Navo UZ
+#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/h4z5n87h/navon.png", Navo UZ
 http://s8.rafail1982.uz/1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/d383j7YV/mada.png", Madaniyat va Marifat UZ
 http://s8.rafail1982.uz/1005/tracks-v1a1/mono.m3u8
@@ -383,7 +383,7 @@ http://s8.rafail1982.uz/4007/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/4008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/mrhcf5T2/nuraf.png", Nurafshon TV UZ
 http://s8.rafail1982.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/FHbbHRdw/vodiy.png", Vodiy TV UZ
+#EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/G3WSmBFh/vodiy.png", Vodiy TV UZ
 http://s8.rafail1982.uz/4012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)" tvg-logo="https://i.postimg.cc/hGSLzBVG/shifo.png", Shifo TV UZ
 http://s8.rafail1982.uz/1469/tracks-v1a1/mono.m3u8
@@ -487,3 +487,4 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=aG
 
 #EXTINF:-1 group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
