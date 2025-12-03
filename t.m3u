@@ -451,6 +451,28 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС Love
+http://95.66.188.74/CTC_Love/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино премиум
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Пятница
+http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС
+http://95.66.188.74/STS/mono.m3u8
+
+#EXTINF:-1 group-title="Таттелеком (VPN)",ТНТ
+http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",Пятница
+http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Таттелеком (VPN)",СТС
+http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 https://mhd128.iptv2022.com/p/RWzdjSRsDVhNept-Dcoy-A,1764836072/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
@@ -483,5 +505,3 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=dk
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
-
