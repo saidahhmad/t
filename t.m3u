@@ -87,13 +87,13 @@ http://s8.rafail1982.uz/1455/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Хабар 24
 http://s8.rafail1982.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMBp01BT/kbs.png"group-title="DDoS (uz)",KBS World
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",KBS World
 http://s8.rafail1982.uz/1448/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",NHK World HD JP
 http://s8.rafail1982.uz/1449/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJfmgW39/euro.png"group-title="DDoS (uz)",Euronews
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Euronews
 http://s8.rafail1982.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJfmgW39/euro.png"group-title="DDoS (uz)",Euronews
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Euronews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",France 24
 http://s8.rafail1982.uz/1241/tracks-v1a1/mono.m3u8
@@ -103,11 +103,11 @@ http://s8.rafail1982.uz/1251/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1253/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",CGTN Русский
 http://s8.rafail1982.uz/1456/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj0WNx0c/blo.png"group-title="DDoS (uz)",Bloomberg
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Bloomberg
 http://s8.rafail1982.uz/1255/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",CNN CA
 http://s8.rafail1982.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHGFh2Xh/dw.png"group-title="DDoS (uz)",Deutsche Welle
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Deutsche Welle
 http://s8.rafail1982.uz/1418/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Al Jazeera
 http://s8.rafail1982.uz/1433/tracks-v1a1/mono.m3u8
@@ -115,9 +115,9 @@ http://s8.rafail1982.uz/1433/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1252/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",РБК
 http://s8.rafail1982.uz/1438/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/90fhJDf4/tug.png"group-title="DDoS (uz)",Туган тел
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Туган тел
 http://s8.rafail1982.uz/1261/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5mf256/8tv.png"group-title="DDoS (uz)",8TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",8TV
 http://s8.rafail1982.uz/1262/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",365 дней ТВ
 http://s8.rafail1982.uz/1242/tracks-v1a1/mono.m3u8
@@ -205,7 +205,7 @@ http://s8.rafail1982.uz/1427/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Сарафан
 http://s8.rafail1982.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kG5mf25J/jivi.png"group-title="DDoS (uz)",Живи Активно
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Живи Активно
 http://s8.rafail1982.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Живи!
 http://s8.rafail1982.uz/1419/tracks-v1a1/mono.m3u8
@@ -261,7 +261,7 @@ http://s8.rafail1982.uz/1201/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Bridge Classic orig
 http://s8.rafail1982.uz/1269/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkrs8Prt/fuel.png"group-title="DDoS (uz)",Fuel TV
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Fuel TV
 http://s8.rafail1982.uz/1280/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",TRT Muzik TR
 http://s8.rafail1982.uz/1208/tracks-v1a1/mono.m3u8
@@ -450,21 +450,21 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 #EXTINF:-1 tvg-logo="https://tmb.tv/wp-content/uploads/2025/01/tmbtaz-png.png"group-title="DDoS (uz)",TMB AZ
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Матч! HD
+#EXTINF:-1 group-title="DDoS (uz)", Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+#EXTINF:-1 group-title="DDoS (uz)", НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+#EXTINF:-1 group-title="DDoS (uz)", НТВ Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+#EXTINF:-1 group-title="DDoS (uz)", НТВ Сериал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+#EXTINF:-1 group-title="DDoS (uz)", НТВ Право
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+#EXTINF:-1 group-title="DDoS (uz)", НТВ Стиль
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
@@ -526,3 +526,4 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ri
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
