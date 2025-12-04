@@ -156,6 +156,7 @@ http://s8.rafail1982.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Смайлик ТВ
 http://s8.rafail1982.uz/1425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Смайлик ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ENGLISH CLUB TV
 http://s8.rafail1982.uz/1442/tracks-v1a1/mono.m3u8
@@ -526,4 +527,3 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ri
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
