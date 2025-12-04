@@ -155,6 +155,8 @@ http://s8.rafail1982.uz/1441/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Смайлик ТВ
 http://s8.rafail1982.uz/1425/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ENGLISH CLUB TV
 http://s8.rafail1982.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Моя Планета
@@ -450,6 +452,21 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Комедия
 http://95.66.188.74/Comedia/mono.m3u8
@@ -474,34 +491,38 @@ http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
-https://mhd128.iptv2022.com/p/RWzdjSRsDVhNept-Dcoy-A,1764836072/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/Ysx9Kzwa_kjZE8Jq_A2UYw,1764878207/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
-https://mhd128.iptv2022.com/p/cZm2verd1zjVByEt7-1SiQ,1764836072/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/CQmR8FqzREun9Nn_15eH1A,1764878207/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
-https://mhd128.iptv2022.com/p/_vpth43CaisD6gQ6pXA-dA,1764836072/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/v2C9h5lcdhBvaA4mphkY7A,1764878207/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Премьер HD
-https://mhd128.iptv2022.com/p/JkBXFqzIyS05mvuz4iiYNw,1764836072/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/vchi-kAeTYLO7vKrtib9KA,1764878207/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=4Zc7yazRBzvOVtDYOB52AQ&e=1764836098&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=K5Zv6M0-ur1Xi0QoNlcbfQ&e=1764878232&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=hzlZTcvcnE1WSkhS02icTg&e=1764836100&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=tv6HXlB3jpSRqEcnw69kbw&e=1764878233&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=e9KEpmbdPU2biRhQISF7NQ&e=1764836101&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=0Gz3oYfvlFdM2Vu8C2WffQ&e=1764878234&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
-https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=WuJ1DGsWpq1xOemrtj03-g&e=1764836102&scheme=https
+https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=5aWbkIcqB1Svuf1EoDcpFA&e=1764878235&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=VKZLeQUzlCHG5HdCvP4ytQ&e=1764836103&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=2VkVCImng2whLB0jxJsx1w&e=1764878238&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница! HD
-https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=fbv29QVxzCg2wgKXjch_fA&e=1764836104&scheme=https
+https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=nXyIiiw31-mQRE6NRdzfIA&e=1764878239&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
-https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=CqL29H5VktJtrsD4XLoi2Q&e=1764836105&scheme=https
+https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=3tmZJL8af831nPXyo4DmPg&e=1764878240&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
-https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=azyIoGR26SaofSq-lHeZQw&e=1764836107&scheme=https
+https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=iwKJnRYp0rEeVeNIZf2JRg&e=1764878241&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=omlIRGdP9tFC2ZEEdy7ihQ&e=1764836108&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=jNG2KwdfGcs4kJdQNEm8qA&e=1764878243&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=dkf-sBAK6BJKB3maLjlbbQ&e=1764836108&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=riornomMlAgihLFaaqOPmA&e=1764878244&scheme=https
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
