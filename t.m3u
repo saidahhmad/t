@@ -475,8 +475,7 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="DDoS (uz)", Время
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+http://193.25.8.59:8000/vremya
 #EXTINF:-1 group-title="DDoS (uz)", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", МУЛЬТиМУЗЫКА
@@ -506,32 +505,32 @@ http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Таттелеком (VPN)",СТС
 http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 tvg-id="15plusmusic" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="Кинозал Vokka",15+ Music HD
+#EXTINF:-1 tvg-id="15plusmusic" group-title="Кинозал Vokka",15+ Music HD
 https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
-#EXTINF:-1 tvg-id="alphacinema" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" group-title="Кинозал Vokka",alpha Cinema HD
+#EXTINF:-1 tvg-id="alphacinema" group-title="Кинозал Vokka",alpha Cinema HD
 https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1 tvg-id="alphamoretime" tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png" group-title="Кинозал Vokka",alpha Moretime HD
+#EXTINF:-1 tvg-id="alphamoretime" group-title="Кинозал Vokka",alpha Moretime HD
 https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
-#EXTINF:-1 tvg-id="alphafunny" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" group-title="Кинозал Vokka",alpha Funny HD
+#EXTINF:-1 tvg-id="alphafunny" group-title="Кинозал Vokka",alpha Funny HD
 https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
-#EXTINF:-1 tvg-id="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png" group-title="Кинозал Vokka",TV4
+#EXTINF:-1 tvg-id="TV4" group-title="Кинозал Vokka",TV4
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:-1 tvg-id="TV4"  tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png" group-title="Кинозал Vokka",TV4 HD
+#EXTINF:-1 tvg-id="TV4" group-title="Кинозал Vokka",TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 tvg-id="HTV" tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png" group-title="Кинозал Vokka",HTV HD
+#EXTINF:-1 tvg-id="HTV" group-title="Кинозал Vokka",HTV HD
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
-#EXTINF:-1 tvg-id="newrussian" tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png" group-title="Кинозал Vokka",Новый Русский HD
+#EXTINF:-1 tvg-id="newrussian" group-title="Кинозал Vokka",Новый Русский HD
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/JrVVcTgu8jPL6TILnUSS4A,1764934796/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/QE2GIRRXsRYTtVPsPCH7XQ,1764934796/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/mxF6V1CkWFkTxDr1yySa-w,1764934796/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/JrVVcTgu8jPL6TILnUSS4A,1764934796/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Премьер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/0jjbkIyuZ9TpF9btF93ADA,1764934796/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
