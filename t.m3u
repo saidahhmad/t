@@ -481,6 +481,18 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Первый HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Первый канал
+http://95.66.188.74/PerviyKanal/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Рен ТВ
+http://95.66.188.74/RenTV/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Россия 1 HD
+http://95.66.188.74/Rossia1HD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Россия 24
+http://95.66.188.74/Rossia24/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", НТВ
+http://95.66.188.74/NTV/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС
 http://95.66.188.74/STS/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС HD
@@ -497,10 +509,20 @@ http://95.66.188.74/TNT/mono.m3u8
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Суббота
 http://95.66.188.74/Subbota/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", 2x2
+http://95.66.188.74/2x2/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", 360 HD
+http://95.66.188.74/360_HD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", 5 канал
+http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", ТВ3
 http://95.66.188.74/TV3/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Ю ТВ
 http://95.66.188.74/U/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Усадьба
+http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", КВН ТВ
+http://95.66.188.74/KVN-TV/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский роман
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский детектив
@@ -513,13 +535,12 @@ http://95.66.188.74/Comedia/mono.m3u8
 http://95.66.188.74/Dom_kino/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино Премиум HD
 http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
-
-#EXTINF:-1 group-title="Таттелеком (VPN)",ТНТ
-http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",Пятница
-http://89.232.68.194:8080/pyatnitsa/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Таттелеком (VPN)",СТС
-http://89.232.68.194:8080/sts/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Бобёр
+http://95.66.188.74/Bober/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Ani
+http://95.66.188.74/Ani/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", О!
+http://95.66.188.74/O/mono.m3u8
 
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -569,3 +590,4 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=Ie
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
