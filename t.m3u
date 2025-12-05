@@ -157,7 +157,7 @@ http://s8.rafail1982.uz/1445/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist_w1149337123_b3631275.m3u8
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",ENGLISH CLUB TV
 http://s8.rafail1982.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Моя Планета
@@ -481,24 +481,34 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
-#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Комедия
-http://95.66.188.74/Comedia/mono.m3u8
-#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС Love
-http://95.66.188.74/CTC_Love/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС
 http://95.66.188.74/STS/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
-http://95.66.188.74/Dom_kino/mono.m3u8
-#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино Премиум HD
-http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", СТС Love
+http://95.66.188.74/CTC_Love/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Пятница
 http://95.66.188.74/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", ТНТ
 http://95.66.188.74/TNT/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Суббота
+http://95.66.188.74/Subbota/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", ТВ3
+http://95.66.188.74/TV3/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Ю ТВ
+http://95.66.188.74/U/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский детектив
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино Премиум HD
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
 
 #EXTINF:-1 group-title="Таттелеком (VPN)",ТНТ
 http://89.232.68.194:8080/tnt/tracks-v3a1/index.m3u8
