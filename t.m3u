@@ -489,6 +489,8 @@ http://95.66.188.74/CTC_HD/mono.m3u8
 http://95.66.188.74/CTC_Love/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Пятница
 http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Пятница! HD
+http://95.66.188.74/Pyatnica_HD/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", ТНТ
 http://95.66.188.74/TNT/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", ТНТ HD
@@ -503,6 +505,8 @@ http://95.66.188.74/U/mono.m3u8
 http://95.66.188.74/RusRoman/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский детектив
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Русский бестселлер
+http://95.66.188.74/RusBestseller/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Комедия
 http://95.66.188.74/Comedia/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", Дом кино
