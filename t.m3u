@@ -552,6 +552,14 @@ http://50.7.28.226/8298/index.m3u8
 http://50.7.28.226/8156/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ-Мир
 http://50.7.28.226/8011/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Хит
+http://50.7.28.226/8383/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Стиль
+http://50.7.28.226/8306/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Право
+http://50.7.28.226/8307/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Сериал
+http://50.7.28.226/8308/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Рен ТВ HD
 http://50.7.28.226/8312/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , ТНТ HD
@@ -666,6 +674,8 @@ http://50.7.28.226/8332/index.m3u8
 http://50.7.28.226/8375/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Рыжий
 http://50.7.28.226/9224/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Disney Jr
+http://50.7.28.226/8373/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч ТВ
 http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч HD
@@ -692,6 +702,8 @@ http://50.7.28.226/8379/index.m3u8
 http://50.7.28.226/8676/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Setanta Plus HD
 http://50.7.28.226/8329/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports UA
+http://50.7.28.226/8382/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Беларусь 5 HD
 http://50.7.28.226/8694/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Eurosport 1 HD
@@ -710,9 +722,28 @@ http://50.7.28.226/9183/index.m3u8
 http://50.7.28.226/9187/index.m3u8
 #EXTINF:-1 group-title="FDCservers", Волейбол 
 http://50.7.28.226/9192/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Хоккейный
+http://50.7.28.226/8367/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Футбольный
+http://50.7.28.226/8368/index.m3u8
 #EXTINF:-1 group-title="FDCservers", NBA USA HD
 http://50.7.28.226/8061/index.m3u8
-
+#EXTINF:-1 group-title="FDCservers", MMA-TV.com HD
+http://50.7.28.226/8380/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 1 IL
+http://50.7.28.226/8339/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 2 IL
+http://50.7.28.226/8341/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 3 IL
+http://50.7.28.226/8340/index.m3u8
+PentHosue
+http://50.7.28.226/8342/index.m3u8
+Shalun
+http://50.7.28.226/8343/index.m3u8
+VividRed
+http://50.7.28.226/8374/index.m3u8
+French Lover
+http://50.7.28.226/8393/index.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=aLtl-rCN-RYqmQDdryVedA&e=1765223619&scheme=https
@@ -735,7 +766,7 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=FR
 #EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=h9bhuQmFuvcflzbBG0hZXw&e=1765223633&scheme=https
 
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/7Mg6j2zGsQ5koCaSC1q6pg,1765223593/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
@@ -762,4 +793,3 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
