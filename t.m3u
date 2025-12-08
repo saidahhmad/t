@@ -542,6 +542,8 @@ http://95.66.188.74/Ani/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", О!
 http://95.66.188.74/O/mono.m3u8
 
+#EXTINF:-1 group-title="FDCservers" , Первый канал
+http://50.7.28.226/8425/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Первый HD
 http://50.7.28.226/8150/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 1
@@ -684,6 +686,8 @@ http://50.7.28.226/8375/index.m3u8
 http://50.7.28.226/9224/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Disney Jr.
 http://50.7.28.226/8373/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Nicanite
+http://50.7.28.226/8486/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч ТВ
 http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! HD
@@ -708,9 +712,9 @@ http://50.7.28.226/8705/index.m3u8
 http://50.7.28.226/8379/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Setanta Sports 2 HD
 http://50.7.28.226/8676/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Setanta Plus HD
+#EXTINF:-1 group-title="FDCservers",Setanta Sports Plus HD
 http://50.7.28.226/8329/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Setanta Sports UA
+#EXTINF:-1 group-title="FDCservers",Setanta Sports UA HD
 http://50.7.28.226/8382/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Беларусь 5 HD
 http://50.7.28.226/8694/index.m3u8
@@ -745,17 +749,9 @@ http://50.7.28.226/8341/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sport 3 IL
 http://50.7.28.226/8340/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8404/index.m3u8
+http://50.7.28.226/8483/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8406/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8417/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8419/index.m3u8
+http://50.7.28.226/8489/index.m3u8
 
 Sky
 http://50.7.28.226/8394/index.m3u8
@@ -829,4 +825,5 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
