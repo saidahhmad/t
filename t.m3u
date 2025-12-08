@@ -640,6 +640,8 @@ http://50.7.28.226/8970/index.m3u8
 http://50.7.28.226/8971/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Hollywood HD
 http://50.7.28.226/8651/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Bollywood HD
+http://50.7.28.226/8240/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Дорама HD
 http://50.7.28.226/8937/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Время
@@ -720,6 +722,8 @@ http://50.7.28.226/8332/index.m3u8
 http://50.7.28.226/8375/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Рыжий
 http://50.7.28.226/9224/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CTC Kids HD
+http://50.7.28.226/9223/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Disney
 http://50.7.28.226/8777/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Disney Jr.
@@ -770,6 +774,8 @@ http://50.7.28.226/8297/index.m3u8
 http://50.7.28.226/8025/index.m3u8
 #EXTINF:-1 group-title="FDCservers", Окко Футбол HD
 http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Окко Спорт HD
+http://50.7.28.226/9184/index.m3u8
 #EXTINF:-1 group-title="FDCservers", Окко Спорт 2 HD
 http://50.7.28.226/9183/index.m3u8
 #EXTINF:-1 group-title="FDCservers", ТВ Спорт 
@@ -812,6 +818,8 @@ http://50.7.28.226/8566/index.m3u8
 http://50.7.28.226/8564/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sky Sport Premier League
 http://50.7.28.226/8917/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Bundesliga
+http://50.7.28.226/9154/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sky Sport Mix
 http://50.7.28.226/8674/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sky Sport Golf
@@ -824,6 +832,8 @@ http://50.7.28.226/8688/index.m3u8
 http://50.7.28.226/8294/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sky Sport Top Event
 http://50.7.28.226/8293/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport News
+http://50.7.28.226/8277/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Magenta Sport
 http://50.7.28.226/8686/index.m3u8
 #EXTINF:-1 group-title="FDCservers",TRT Spor
@@ -863,10 +873,46 @@ Erox
 http://50.7.28.226/8415/index.m3u8
 Tushy
 http://50.7.28.226/8407/index.m3u8
-Deflaration
+Defloration
 http://50.7.28.226/8868/index.m3u8
 Legal Porno
 http://50.7.28.226/8869/index.m3u8
+Digital Playground
+http://50.7.28.226/9177/index.m3u8
+Dorcel TV
+http://50.7.28.226/9235/index.m3u8
+XY Mix
+http://50.7.28.226/9237/index.m3u8
+?
+http://50.7.28.226/9238/index.m3u8
+NF
+http://50.7.28.226/9239/index.m3u8
+Kino XXX
+http://50.7.28.226/9240/index.m3u8
+Naughty America
+http://50.7.28.226/9241/index.m3u8
+Porn Fidelity
+http://50.7.28.226/9242/index.m3u8
+Bang Bros
+http://50.7.28.226/9243/index.m3u8
+?
+http://50.7.28.226/9244/index.m3u8
+Reality kings
+http://50.7.28.226/9245/index.m3u8
+XXL
+http://50.7.28.226/9249/index.m3u8
+ОХ-АХ
+http://50.7.28.226/9250/index.m3u8
+XY Max
+http://50.7.28.226/9251/index.m3u8
+Babes TV
+http://50.7.28.226/9252/index.m3u8
+XY Plus
+http://50.7.28.226/9254/index.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
@@ -917,4 +963,3 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
