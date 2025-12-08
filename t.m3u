@@ -592,26 +592,6 @@ http://50.7.28.226/8358/index.m3u8
 http://50.7.28.226/8386/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Fox
 http://50.7.28.226/8168/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Gold Line Детектив
-http://50.7.28.226/8573/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Gold Line Psycho
-http://50.7.28.226/8483/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Gold Line Exist
-http://50.7.28.226/8489/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Gold Line Невский
-http://50.7.28.226/8501/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Gold Line Series
-http://50.7.28.226/8533/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Gold Line Island
-http://50.7.28.226/8534/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Gold Line Brief
-http://50.7.28.226/8568/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Gold Line Evidence
-http://50.7.28.226/8569/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Gold Line Naked&Funny
-http://50.7.28.226/8570/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Gold Line Survival
-http://50.7.28.226/8571/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Кинеко
 http://50.7.28.226/8370/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Комедийное
@@ -622,22 +602,6 @@ http://50.7.28.226/8665/index.m3u8
 http://50.7.28.226/8648/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Cinema 
 http://50.7.28.226/8949/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan VHS
-http://50.7.28.226/8807/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan Симпсоны 
-http://50.7.28.226/8833/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan Thriller
-http://50.7.28.226/8954/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan MiniSeries
-http://50.7.28.226/8961/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan
-http://50.7.28.226/8812/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan РуКино
-http://50.7.28.226/8871/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , CineMan
-http://50.7.28.226/8574/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Романтичное HD
-http://50.7.28.226/8948/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viasat Kino
 http://50.7.28.226/9020/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju+ Serial
@@ -672,10 +636,14 @@ http://50.7.28.226/8136/index.m3u8
 http://50.7.28.226/8313/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Кино ТВ HD
 http://50.7.28.226/8207/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Кино UHD
+http://50.7.28.226/8684/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Мир Сериала HD
 http://50.7.28.226/8662/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Красная линия
 http://50.7.28.226/8390/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Мосфильм
+http://50.7.28.226/8795/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Мосфильм. Золотая коллекция HD
 http://50.7.28.226/8707/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Наше любимое HD
@@ -718,6 +686,8 @@ http://50.7.28.226/8332/index.m3u8
 http://50.7.28.226/8375/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Рыжий
 http://50.7.28.226/9224/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Disney
+http://50.7.28.226/8777/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Disney Jr.
 http://50.7.28.226/8373/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Nicanite
@@ -814,26 +784,32 @@ http://50.7.28.226/8674/index.m3u8
 http://50.7.28.226/8687/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sky Sports F1
 http://50.7.28.226/8688/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Tennis
+http://50.7.28.226/8294/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Top Event
+http://50.7.28.226/8293/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Magenta Sport
 http://50.7.28.226/8686/index.m3u8
+#EXTINF:-1 group-title="FDCservers",TRT Spor
+http://50.7.28.226/8827/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport 1
+http://50.7.28.226/8899/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport 2
+http://50.7.28.226/8898/index.m3u8
 
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8657/index.m3u8
+http://50.7.28.226/8841/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8677/index.m3u8
+http://50.7.28.226/8842/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8680/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8681/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8683/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8684/index.m3u8
+http://50.7.28.226/8903/index.m3u8
 
 Sky
 http://50.7.28.226/8394/index.m3u8
 http://50.7.28.226/8395/index.m3u8
 http://50.7.28.226/8396/index.m3u8
+http://50.7.28.226/8782/index.m3u8
+http://50.7.28.226/8784/index.m3u8
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
@@ -853,6 +829,11 @@ Erox
 http://50.7.28.226/8415/index.m3u8
 ?
 http://50.7.28.226/8407/index.m3u8
+Deflaration
+http://50.7.28.226/8868/index.m3u8
+?
+http://50.7.28.226/8869/index.m3u8
+
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=aLtl-rCN-RYqmQDdryVedA&e=1765223619&scheme=https
@@ -902,8 +883,3 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
-
-
-
-
