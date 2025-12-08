@@ -546,6 +546,8 @@ http://95.66.188.74/O/mono.m3u8
 http://50.7.28.226/8425/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Первый HD
 http://50.7.28.226/8150/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Первый Евразия
+http://50.7.28.226/8520/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 1
 http://50.7.28.226/8300/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 1 HD
@@ -590,8 +592,14 @@ http://50.7.28.226/8358/index.m3u8
 http://50.7.28.226/8386/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Fox
 http://50.7.28.226/8168/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Gold Line Детектив HD
+#EXTINF:-1 group-title="FDCservers" , Gold Line Детектив
 http://50.7.28.226/8573/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Gold Line Psycho
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Gold Line Exist
+http://50.7.28.226/8489/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Gold Line Невский
+http://50.7.28.226/8501/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Кинеко
 http://50.7.28.226/8370/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Комедийное
@@ -612,6 +620,8 @@ http://50.7.28.226/8961/index.m3u8
 http://50.7.28.226/8812/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , CineMan РуКино
 http://50.7.28.226/8871/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , CineMan
+http://50.7.28.226/8574/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Романтичное HD
 http://50.7.28.226/8948/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viasat Kino
@@ -688,6 +698,8 @@ http://50.7.28.226/9224/index.m3u8
 http://50.7.28.226/8373/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Nicanite
 http://50.7.28.226/8486/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Balapan
+http://50.7.28.226/8523/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч ТВ
 http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! HD
@@ -716,6 +728,12 @@ http://50.7.28.226/8676/index.m3u8
 http://50.7.28.226/8329/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Setanta Sports UA HD
 http://50.7.28.226/8382/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 2 KZ
+http://50.7.28.226/8537/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 1 HD
+http://50.7.28.226/8565/index.m3u8
+
+
 #EXTINF:-1 group-title="FDCservers",Беларусь 5 HD
 http://50.7.28.226/8694/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Eurosport 1 HD
@@ -748,14 +766,42 @@ http://50.7.28.226/8339/index.m3u8
 http://50.7.28.226/8341/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sport 3 IL
 http://50.7.28.226/8340/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 4 IL
+http://50.7.28.226/8513/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Prima Sport 1
+http://50.7.28.226/8554/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Prima Sport 2
+http://50.7.28.226/8555/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 1
+http://50.7.28.226/8556/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 2
+http://50.7.28.226/8558/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 3
+http://50.7.28.226/8561/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 4
+http://50.7.28.226/8563/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Qazsport
+http://50.7.28.226/8541/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Polsat Sport 1
+http://50.7.28.226/8566/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Polsat Sport 2
+http://50.7.28.226/8564/index.m3u8
+
+
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8483/index.m3u8
+http://50.7.28.226/8533/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8489/index.m3u8
+http://50.7.28.226/8534/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8501/index.m3u8
+http://50.7.28.226/8568/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8509/index.m3u8
+http://50.7.28.226/8569/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8570/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8571/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8573/index.m3u8
 
 Sky
 http://50.7.28.226/8394/index.m3u8
@@ -829,6 +875,7 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
 
