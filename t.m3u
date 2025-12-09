@@ -1167,23 +1167,33 @@ http://50.7.28.226/8325/index.m3u8
 http://50.7.28.226/8327/index.m3u8
 #EXTINF:-1 group-title="FDCservers",MM Love
 http://50.7.28.226/8328/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Ufo
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Боевик classic
+http://50.7.28.226/8411/index.m3u8
 
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8310/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8126/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8338/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8354/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8366/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8377/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8378/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8399/index.m3u8
+http://50.7.28.226/8404/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test2
+http://50.7.28.226/8406/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test3
+http://50.7.28.226/8412/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test4
+http://50.7.28.226/8416/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test5
+http://50.7.28.226/8417/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test6
+http://50.7.28.226/8418/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test7
+http://50.7.28.226/8419/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test8
+http://50.7.28.226/8424/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test9
+http://50.7.28.226/8427/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test10
+http://50.7.28.226/8428/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test11
+http://50.7.28.226/8430/index.m3u8
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
@@ -1302,4 +1312,5 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
