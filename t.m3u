@@ -590,6 +590,8 @@ http://50.7.28.226/8174/index.m3u8
 http://50.7.28.226/8071/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Беларусь 24
 http://50.7.28.226/8144/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Беларусь 2
+http://50.7.28.226/8302/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Известия
 http://50.7.28.226/8221/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Россия К
@@ -608,6 +610,8 @@ http://50.7.28.226/8009/index.m3u8
 http://50.7.28.226/8020/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Сапфир
 http://50.7.28.226/8169/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Спас
+http://50.7.28.226/8301/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Успех
 http://50.7.28.226/8164/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Усадьба
@@ -628,6 +632,12 @@ http://50.7.28.226/8068/index.m3u8
 http://50.7.28.226/8065/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Охотник и Рыболов
 http://50.7.28.226/8183/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Дикая Рыбалка HD
+http://50.7.28.226/8316/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Диалоги о рыбалке
+http://50.7.28.226/8324/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Трофей
+http://50.7.28.226/8317/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Animal Planet
 http://50.7.28.226/8075/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Animal Planet HD
@@ -646,9 +656,11 @@ http://50.7.28.226/8081/index.m3u8
 http://50.7.28.226/8154/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Океан
 http://50.7.28.226/8069/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Travel
+#EXTINF:-1 group-title="FDCservers" , Travel Channel
 http://50.7.28.226/8083/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Travel Adventure
+#EXTINF:-1 group-title="FDCservers" , Travel Channel HD
+http://50.7.28.226/8315/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Travel+ Adventure
 http://50.7.28.226/8170/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju Explore
 http://50.7.28.226/8085/index.m3u8
@@ -1113,13 +1125,15 @@ http://50.7.28.226/9025/index.m3u8
 http://50.7.28.226/9036/index.m3u8
 
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8204/index.m3u8
+http://50.7.28.226/8310/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8224/index.m3u8
+http://50.7.28.226/8319/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8282/index.m3u8
+http://50.7.28.226/8321/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8288/index.m3u8
+http://50.7.28.226/8322/index.m3u8
+
+
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
