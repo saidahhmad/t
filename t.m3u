@@ -549,17 +549,17 @@ http://50.7.28.226/8150/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Первый Евразия
 http://50.7.28.226/8520/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 1
-http://50.7.28.226/8300/index.m3u8
+http://50.7.28.226/8002/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 1 HD
 http://50.7.28.226/8152/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 24
 http://50.7.28.226/8125/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ
 http://50.7.28.226/8003/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , НТВ
-http://50.7.28.226/8225/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ HD
 http://50.7.28.226/8156/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ
+http://50.7.28.226/8225/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ Мир
 http://50.7.28.226/8011/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ Хит
@@ -576,26 +576,35 @@ http://50.7.28.226/8004/index.m3u8
 http://50.7.28.226/8312/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , ТНТ
 http://50.7.28.226/8007/index.m3u8
+http://50.7.28.226/8194/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , ТНТ HD
 http://50.7.28.226/8311/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , ТНТ4
 http://50.7.28.226/8058/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Пятница! HD
 http://50.7.28.226/8066/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,СТС
+http://50.7.28.226/8195/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,СТС HD
 http://50.7.28.226/8005/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , СТС Love 
 http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Крым 24
+http://50.7.28.226/8353/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Мир 24
 http://50.7.28.226/8071/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Беларусь 24
 http://50.7.28.226/8144/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Беларусь 2
 http://50.7.28.226/8302/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,БелРос
+http://50.7.28.226/8381/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Известия
 http://50.7.28.226/8221/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Россия К
 http://50.7.28.226/8072/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Жара ТВ
+http://50.7.28.226/8361/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Че
 http://50.7.28.226/8008/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,ТВ3
@@ -604,6 +613,8 @@ http://50.7.28.226/8114/index.m3u8
 http://50.7.28.226/8006/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Ю ТВ
 http://50.7.28.226/8099/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Москва Доверие
+http://50.7.28.226/8363/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Пятый канал
 http://50.7.28.226/8009/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Сарафан
@@ -622,12 +633,20 @@ http://50.7.28.226/8060/index.m3u8
 http://50.7.28.226/8124/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Домашний HD
 http://50.7.28.226/8062/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,HGTV
+http://50.7.28.226/8355/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Кухня
 http://50.7.28.226/8063/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Еда
 http://50.7.28.226/8140/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Food Network
+http://50.7.28.226/8385/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,365 дней
 http://50.7.28.226/8068/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Galaxy
+http://50.7.28.226/8337/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Космический
+http://50.7.28.226/8369/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Охота и Рыбалка
 http://50.7.28.226/8065/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Охотник и Рыболов
@@ -670,6 +689,8 @@ http://50.7.28.226/8086/index.m3u8
 http://50.7.28.226/8087/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Наука 2.0
 http://50.7.28.226/8104/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,History
+http://50.7.28.226/8356/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,RTVI
 http://50.7.28.226/8118/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,RTG
@@ -760,6 +781,8 @@ http://50.7.28.226/8070/index.m3u8
 http://50.7.28.226/8199/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Родное кино
 http://50.7.28.226/8096/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Киноужас
+http://50.7.28.226/8357/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju TV1000
 http://50.7.28.226/8048/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju TV1000 Action
@@ -778,8 +801,6 @@ http://50.7.28.226/9222/index.m3u8
 http://50.7.28.226/9236/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Твоё ТВ Юмор
 http://50.7.28.226/9246/index.m3u8
-#EXTINF:-1 group-title="FDCservers" ,2x2
-http://50.7.28.226/8045/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Еврокино
 http://50.7.28.226/8034/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Kino Living
@@ -848,6 +869,8 @@ http://50.7.28.226/8059/index.m3u8
 http://50.7.28.226/8028/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Страшное HD
 http://50.7.28.226/8198/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Шокирующее HD
+http://50.7.28.226/8322/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Trash HD
 http://50.7.28.226/8945/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Иллюзион +
@@ -896,6 +919,8 @@ http://50.7.28.226/8046/index.m3u8
 http://50.7.28.226/8082/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Патриот
 http://50.7.28.226/8285/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Ретро
+http://50.7.28.226/8331/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Вопросы ответы
 http://50.7.28.226/8053/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Телекафе
@@ -910,6 +935,10 @@ http://50.7.28.226/8074/index.m3u8
 http://50.7.28.226/8026/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Sumiko
 http://50.7.28.226/8968/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,2x2
+http://50.7.28.226/8045/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Суббота
+http://50.7.28.226/8360/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Мульт
 http://50.7.28.226/8157/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Мульт HD
@@ -985,6 +1014,10 @@ http://50.7.28.226/8189/index.m3u8
 http://50.7.28.226/8185/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Муз ТВ
 http://50.7.28.226/8190/index.m3u8
+#EXTINF:-1 group-title="FDCservers",ТНТ Music
+http://50.7.28.226/8350/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MCM Top
+http://50.7.28.226/8351/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч ТВ
 http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! HD
@@ -1059,6 +1092,10 @@ http://50.7.28.226/8367/index.m3u8
 http://50.7.28.226/8368/index.m3u8
 #EXTINF:-1 group-title="FDCservers", Бокс ТВ
 http://50.7.28.226/8201/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Удар
+http://50.7.28.226/8319/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Конний мир
+http://50.7.28.226/8326/index.m3u8
 #EXTINF:-1 group-title="FDCservers", NBA TV HD US
 http://50.7.28.226/8061/index.m3u8
 #EXTINF:-1 group-title="FDCservers", MMA-TV.com HD
@@ -1083,7 +1120,7 @@ http://50.7.28.226/8558/index.m3u8
 http://50.7.28.226/8561/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Digi Sport 4
 http://50.7.28.226/8563/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Qazsport
+#EXTINF:-1 group-title="FDCservers",QazSport
 http://50.7.28.226/8541/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Polsat Sport 1
 http://50.7.28.226/8566/index.m3u8
@@ -1124,16 +1161,29 @@ http://50.7.28.226/9025/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Go3 Sport Open
 http://50.7.28.226/9036/index.m3u8
 
+#EXTINF:-1 group-title="FDCservers",MM Ужастик
+http://50.7.28.226/8325/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM 007
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Love
+http://50.7.28.226/8328/index.m3u8
+
 #EXTINF:-1 group-title="FDCservers",test
 http://50.7.28.226/8310/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8319/index.m3u8
+http://50.7.28.226/8126/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8321/index.m3u8
+http://50.7.28.226/8338/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8322/index.m3u8
-
-
+http://50.7.28.226/8354/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8366/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8377/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8378/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8399/index.m3u8
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
@@ -1252,3 +1302,4 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
