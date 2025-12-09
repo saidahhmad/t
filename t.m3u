@@ -1187,51 +1187,19 @@ http://50.7.28.226/8442/index.m3u8
 http://50.7.28.226/8449/index.m3u8
 
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8430/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test2
-http://50.7.28.226/8431/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test3
-http://50.7.28.226/8432/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test4
-http://50.7.28.226/8434/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test5
-http://50.7.28.226/8435/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test6
-http://50.7.28.226/8437/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test7
-http://50.7.28.226/8438/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test8
-http://50.7.28.226/8439/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test9
-http://50.7.28.226/8440/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test10
-http://50.7.28.226/8441/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test11
-http://50.7.28.226/8443/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test12
-http://50.7.28.226/8444/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test13
-http://50.7.28.226/8448/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test14
-http://50.7.28.226/8452/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test15
-http://50.7.28.226/8453/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test16
-http://50.7.28.226/8454/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test17
-http://50.7.28.226/8455/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test18
-http://50.7.28.226/8457/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test19
-http://50.7.28.226/8468/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test20
-http://50.7.28.226/8471/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test21
-http://50.7.28.226/8473/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test22
-http://50.7.28.226/8474/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test23
-http://50.7.28.226/8475/index.m3u8
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8476/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8477/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8478/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8479/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8480/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8489/index.m3u8
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
@@ -1350,6 +1318,7 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
 
