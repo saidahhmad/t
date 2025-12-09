@@ -671,6 +671,8 @@ http://50.7.28.226/8176/index.m3u8
 http://50.7.28.226/8079/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Домашние животные
 http://50.7.28.226/8081/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,В мире животных
+http://50.7.28.226/8456/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Моя Планета
 http://50.7.28.226/8154/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Океан
@@ -759,6 +761,8 @@ http://50.7.28.226/8648/index.m3u8
 http://50.7.28.226/8139/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Cinema
 http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Феникс+Кино
+http://50.7.28.226/8412/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Индийское кино
 http://50.7.28.226/8038/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Кинохит
@@ -1018,6 +1022,10 @@ http://50.7.28.226/8190/index.m3u8
 http://50.7.28.226/8350/index.m3u8
 #EXTINF:-1 group-title="FDCservers",MCM Top
 http://50.7.28.226/8351/index.m3u8
+#EXTINF:-1 group-title="FDCservers",#Ё
+http://50.7.28.226/8406/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Bridge Classic
+http://50.7.28.226/8450/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч ТВ
 http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! HD
@@ -1171,29 +1179,59 @@ http://50.7.28.226/8328/index.m3u8
 http://50.7.28.226/8410/index.m3u8
 #EXTINF:-1 group-title="FDCservers",MM Боевик classic
 http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Flip UHD
+http://50.7.28.226/8404/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Семейный 1
+http://50.7.28.226/8442/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Семейный 2
+http://50.7.28.226/8449/index.m3u8
 
 #EXTINF:-1 group-title="FDCservers",test
-http://50.7.28.226/8404/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test2
-http://50.7.28.226/8406/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test3
-http://50.7.28.226/8412/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test4
-http://50.7.28.226/8416/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test5
-http://50.7.28.226/8417/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test6
-http://50.7.28.226/8418/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test7
-http://50.7.28.226/8419/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test8
-http://50.7.28.226/8424/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test9
-http://50.7.28.226/8427/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test10
-http://50.7.28.226/8428/index.m3u8
-#EXTINF:-1 group-title="FDCservers",test11
 http://50.7.28.226/8430/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test2
+http://50.7.28.226/8431/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test3
+http://50.7.28.226/8432/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test4
+http://50.7.28.226/8434/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test5
+http://50.7.28.226/8435/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test6
+http://50.7.28.226/8437/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test7
+http://50.7.28.226/8438/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test8
+http://50.7.28.226/8439/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test9
+http://50.7.28.226/8440/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test10
+http://50.7.28.226/8441/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test11
+http://50.7.28.226/8443/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test12
+http://50.7.28.226/8444/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test13
+http://50.7.28.226/8448/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test14
+http://50.7.28.226/8452/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test15
+http://50.7.28.226/8453/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test16
+http://50.7.28.226/8454/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test17
+http://50.7.28.226/8455/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test18
+http://50.7.28.226/8457/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test19
+http://50.7.28.226/8468/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test20
+http://50.7.28.226/8471/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test21
+http://50.7.28.226/8473/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test22
+http://50.7.28.226/8474/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test23
+http://50.7.28.226/8475/index.m3u8
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
@@ -1312,5 +1350,6 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
