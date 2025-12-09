@@ -662,6 +662,10 @@ http://50.7.28.226/8151/index.m3u8
 http://50.7.28.226/8173/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Здоровое ТВ
 http://50.7.28.226/8127/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Живи
+http://50.7.28.226/8187/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Психология
+http://50.7.28.226/8192/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Nano HD
 http://50.7.28.226/8181/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Бобер
@@ -670,8 +674,12 @@ http://50.7.28.226/8172/index.m3u8
 http://50.7.28.226/8182/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Авто Плюс
 http://50.7.28.226/8095/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Техно 24
+http://50.7.28.226/8196/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Точка РФ
 http://50.7.28.226/8175/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,РБК
+http://50.7.28.226/8197/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,BBC News
 http://50.7.28.226/8036/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Euro News
@@ -726,6 +734,8 @@ http://50.7.28.226/8044/index.m3u8
 http://50.7.28.226/8047/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Мужское кино
 http://50.7.28.226/8070/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинопремьера
+http://50.7.28.226/8199/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Родное кино
 http://50.7.28.226/8096/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju TV1000
@@ -938,6 +948,10 @@ http://50.7.28.226/8033/index.m3u8
 http://50.7.28.226/8101/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Музыка первого
 http://50.7.28.226/8135/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Russian Music Box
+http://50.7.28.226/8189/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Муз ТВ
+http://50.7.28.226/8190/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч ТВ
 http://50.7.28.226/8016/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! HD
@@ -1010,6 +1024,8 @@ http://50.7.28.226/9192/index.m3u8
 http://50.7.28.226/8367/index.m3u8
 #EXTINF:-1 group-title="FDCservers", Футбольный
 http://50.7.28.226/8368/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Бокс ТВ
+http://50.7.28.226/8201/index.m3u8
 #EXTINF:-1 group-title="FDCservers", NBA TV HD US
 http://50.7.28.226/8061/index.m3u8
 #EXTINF:-1 group-title="FDCservers", MMA-TV.com HD
@@ -1079,8 +1095,8 @@ http://50.7.28.226/9036/index.m3u8
 http://50.7.28.226/8126/index.m3u8
 #EXTINF:-1 group-title="FDCservers",test
 http://50.7.28.226/8185/index.m3u8
-
-
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8198/index.m3u8
 
 PentHosue
 http://50.7.28.226/8342/index.m3u8
@@ -1199,5 +1215,6 @@ https://mhd128.iptv2022.com/p/H4wmYu75Njxf1V7XMqX8Eg,1765223593/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
 
