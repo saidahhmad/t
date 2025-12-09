@@ -542,19 +542,25 @@ http://95.66.188.74/Ani/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", О!
 http://95.66.188.74/O/mono.m3u8
 
+#EXTINF:-1 group-title="FDCservers" , Первый канал
+http://50.7.28.226/8001/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Первый HD
 http://50.7.28.226/8150/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Первый Евразия
 http://50.7.28.226/8520/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Россия 1
+http://50.7.28.226/8002/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 1 HD
 http://50.7.28.226/8152/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Россия 24
 http://50.7.28.226/8125/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Известия
+http://50.7.28.226/8004/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ
-http://50.7.28.226/8298/index.m3u8
+http://50.7.28.226/8003/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ HD
 http://50.7.28.226/8156/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , НТВ-Мир
+#EXTINF:-1 group-title="FDCservers" , НТВ Мир
 http://50.7.28.226/8011/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , НТВ Хит
 http://50.7.28.226/8383/index.m3u8
@@ -566,6 +572,8 @@ http://50.7.28.226/8307/index.m3u8
 http://50.7.28.226/8308/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Рен ТВ HD
 http://50.7.28.226/8312/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , ТНТ
+http://50.7.28.226/8007/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , ТНТ HD
 http://50.7.28.226/8311/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , ТНТ4
@@ -576,12 +584,18 @@ http://50.7.28.226/8066/index.m3u8
 http://50.7.28.226/8005/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , СТС Love 
 http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Че
+http://50.7.28.226/8008/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,ТВ3
 http://50.7.28.226/8114/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,ТВЦ
 http://50.7.28.226/8006/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Ю ТВ
 http://50.7.28.226/8099/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Пятый канал
+http://50.7.28.226/8009/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Сарафан
+http://50.7.28.226/8020/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Успех
 http://50.7.28.226/8164/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Усадьба
@@ -614,7 +628,7 @@ http://50.7.28.226/8949/index.m3u8
 http://50.7.28.226/8048/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju TV1000 Action
 http://50.7.28.226/8049/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Viju TV1000 РУсское
+#EXTINF:-1 group-title="FDCservers" , Viju TV1000 Русское
 http://50.7.28.226/8050/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Viju+ Premiere
 http://50.7.28.226/8119/index.m3u8
@@ -770,7 +784,7 @@ http://50.7.28.226/8166/index.m3u8
 http://50.7.28.226/8153/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , Cartoon Network
 http://50.7.28.226/8064/index.m3u8
-#EXTINF:-1 group-title="FDCservers" , Disney Channel
+#EXTINF:-1 group-title="FDCservers" , DISNEY CHANNEL
 http://50.7.28.226/8777/index.m3u8
 #EXTINF:-1 group-title="FDCservers" , DISNEY JUNIOR
 http://50.7.28.226/8373/index.m3u8
@@ -792,6 +806,12 @@ http://50.7.28.226/8024/index.m3u8
 http://50.7.28.226/8019/index.m3u8
 #EXTINF:-1 group-title="FDCservers" ,Матч! Премьер HD
 http://50.7.28.226/8023/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 1
+http://50.7.28.226/8021/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 2
+http://50.7.28.226/8022/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 3
+http://50.7.28.226/8029/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! Футбол 1 HD
 http://50.7.28.226/8236/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Матч! Футбол 2 HD
@@ -804,7 +824,7 @@ http://50.7.28.226/8147/index.m3u8
 http://50.7.28.226/8015/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Sport 1 HD
 http://50.7.28.226/8705/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Setanta Sports 1 KZ HD
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 1 KZ
 http://50.7.28.226/8379/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Setanta Sports 2 KZ
 http://50.7.28.226/8537/index.m3u8
@@ -812,12 +832,14 @@ http://50.7.28.226/8537/index.m3u8
 http://50.7.28.226/8565/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Setanta Sports 2 HD
 http://50.7.28.226/8676/index.m3u8
-#EXTINF:-1 group-title="FDCservers",Setanta Sports + HD
+#EXTINF:-1 group-title="FDCservers",Setanta Sports Plus
 http://50.7.28.226/8329/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Setanta Sports UA HD
 http://50.7.28.226/8382/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Беларусь 5 HD
 http://50.7.28.226/8694/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Eurosport 1
+http://50.7.28.226/8013/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Eurosport 1 HD
 http://50.7.28.226/8013/index.m3u8
 #EXTINF:-1 group-title="FDCservers",Eurosport 2 HD
