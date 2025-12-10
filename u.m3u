@@ -1,0 +1,882 @@
+#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml,http://gabbarit.drm-play.com/epg_lite.xml.gz"
+
+#EXTINF:-1 group-title="FDCservers" , Первый канал
+http://50.7.28.226/8001/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Первый HD
+http://50.7.28.226/8150/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Первый Евразия
+http://50.7.28.226/8520/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Россия 1
+http://50.7.28.226/8002/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Россия 1 HD
+http://50.7.28.226/8152/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Россия 24
+http://50.7.28.226/8125/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ
+http://50.7.28.226/8003/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ HD
+http://50.7.28.226/8156/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ
+http://50.7.28.226/8225/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Мир
+http://50.7.28.226/8011/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Хит
+http://50.7.28.226/8383/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Стиль
+http://50.7.28.226/8306/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Право
+http://50.7.28.226/8307/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НТВ Сериал
+http://50.7.28.226/8308/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Рен ТВ
+http://50.7.28.226/8004/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Рен ТВ HD
+http://50.7.28.226/8312/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , ТНТ
+http://50.7.28.226/8007/index.m3u8
+http://50.7.28.226/8194/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , ТНТ HD
+http://50.7.28.226/8311/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , ТНТ4
+http://50.7.28.226/8058/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Пятница! HD
+http://50.7.28.226/8066/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,СТС
+http://50.7.28.226/8195/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,СТС HD
+http://50.7.28.226/8005/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , СТС Love 
+http://50.7.28.226/8174/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Крым 24
+http://50.7.28.226/8353/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Мир
+http://50.7.28.226/8641/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Мир HD
+http://50.7.28.226/8560/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Мир 24
+http://50.7.28.226/8071/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Беларусь 24
+http://50.7.28.226/8144/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Беларусь 1
+http://50.7.28.226/8546/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Беларусь 2
+http://50.7.28.226/8302/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,БелРос
+http://50.7.28.226/8381/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Санкт Петербург
+http://50.7.28.226/8550/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Известия
+http://50.7.28.226/8221/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Настоящее время
+http://50.7.28.226/8525/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Россия К
+http://50.7.28.226/8072/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ЦТВ
+http://50.7.28.226/8575/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Жара ТВ
+http://50.7.28.226/8361/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Че
+http://50.7.28.226/8008/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Перец
+http://50.7.28.226/8640/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ТВ3
+http://50.7.28.226/8114/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ТВЦ
+http://50.7.28.226/8006/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Ю ТВ
+http://50.7.28.226/8099/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Москва Доверие
+http://50.7.28.226/8363/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Пятый канал
+http://50.7.28.226/8009/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Сарафан
+http://50.7.28.226/8020/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Сапфир
+http://50.7.28.226/8169/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Спас
+http://50.7.28.226/8301/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Успех
+http://50.7.28.226/8164/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Усадьба
+http://50.7.28.226/8017/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,TLC
+http://50.7.28.226/8060/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Домашний
+http://50.7.28.226/8124/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Домашний HD
+http://50.7.28.226/8062/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,HGTV
+http://50.7.28.226/8355/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Кухня
+http://50.7.28.226/8063/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Еда
+http://50.7.28.226/8140/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Food Network
+http://50.7.28.226/8385/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Food Time
+http://50.7.28.226/8650/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Tastemade
+http://50.7.28.226/8542/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,365 дней
+http://50.7.28.226/8068/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,TVM
+http://50.7.28.226/8666/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Galaxy
+http://50.7.28.226/8337/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Космический
+http://50.7.28.226/8369/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Охота и Рыбалка
+http://50.7.28.226/8065/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Охотник и Рыболов
+http://50.7.28.226/8183/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Дикая Рыбалка HD
+http://50.7.28.226/8316/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Диалоги о рыбалке
+http://50.7.28.226/8324/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Трофей
+http://50.7.28.226/8317/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Animal Planet
+http://50.7.28.226/8075/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Animal Planet HD
+http://50.7.28.226/8167/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Discovery Channel
+http://50.7.28.226/8076/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,National Geographic
+http://50.7.28.226/8080/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,National Geographic HD
+http://50.7.28.226/8176/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,National Geographic Wild
+http://50.7.28.226/8079/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Домашние животные
+http://50.7.28.226/8081/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,В мире животных
+http://50.7.28.226/8456/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Лапки
+http://50.7.28.226/8551/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Моя Планета
+http://50.7.28.226/8154/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Океан
+http://50.7.28.226/8069/index.m3u8
+#EXTINF:-1 group-title="FDCservers",ZooПарк
+http://50.7.28.226/8655/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Travel Channel
+http://50.7.28.226/8083/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Travel Channel HD
+http://50.7.28.226/8315/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Travel+ Adventure
+http://50.7.28.226/8170/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju Explore
+http://50.7.28.226/8085/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju History
+http://50.7.28.226/8086/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju Nature
+http://50.7.28.226/8087/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Наука 2.0
+http://50.7.28.226/8104/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,History
+http://50.7.28.226/8356/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Приключения
+http://50.7.28.226/8649/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,RTVI
+http://50.7.28.226/8118/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,RTG
+http://50.7.28.226/8151/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,RTG HD
+http://50.7.28.226/8173/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Здоровое ТВ
+http://50.7.28.226/8127/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Живи
+http://50.7.28.226/8187/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Психология
+http://50.7.28.226/8192/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Доктор
+http://50.7.28.226/8214/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Nano HD
+http://50.7.28.226/8181/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Бобер
+http://50.7.28.226/8172/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Фиалка
+http://50.7.28.226/8182/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Авто Плюс
+http://50.7.28.226/8095/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Драйв
+http://50.7.28.226/8654/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Техно 24
+http://50.7.28.226/8196/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Точка РФ
+http://50.7.28.226/8175/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,РБК
+http://50.7.28.226/8197/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,BBC News
+http://50.7.28.226/8036/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Euro News
+http://50.7.28.226/8084/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Дождь
+http://50.7.28.226/8113/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Qazaqstan HD
+http://50.7.28.226/8106/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Хабар
+http://50.7.28.226/8515/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Astana TV
+http://50.7.28.226/8522/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,31 канал
+http://50.7.28.226/8529/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,atv TR
+http://50.7.28.226/8669/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,AzTV
+http://50.7.28.226/8227/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,КВН ТВ
+http://50.7.28.226/8330/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Среда
+http://50.7.28.226/8295/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , НСТ
+http://50.7.28.226/8165/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Индия
+http://50.7.28.226/8155/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Shot TV
+http://50.7.28.226/8358/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , FAN HD
+http://50.7.28.226/8386/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Fox HD
+http://50.7.28.226/8168/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Fox
+http://50.7.28.226/8051/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Fox Life
+http://50.7.28.226/8052/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинеко
+http://50.7.28.226/8370/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Комедийное
+http://50.7.28.226/8323/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Продвижение 
+http://50.7.28.226/8665/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Комедия
+http://50.7.28.226/8648/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинопоказ HD
+http://50.7.28.226/8139/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Cinema
+http://50.7.28.226/8949/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Феникс+Кино
+http://50.7.28.226/8412/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Индийское кино
+http://50.7.28.226/8038/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинохит
+http://50.7.28.226/8039/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Киномикс
+http://50.7.28.226/8040/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Киносвидание
+http://50.7.28.226/8041/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинокомедия
+http://50.7.28.226/8042/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Киносерия
+http://50.7.28.226/8043/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Наше новое кино
+http://50.7.28.226/8044/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Киносемья
+http://50.7.28.226/8047/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Мужское кино
+http://50.7.28.226/8070/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Кинопремьера
+http://50.7.28.226/8199/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Родное кино
+http://50.7.28.226/8096/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Киноужас
+http://50.7.28.226/8357/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju TV1000
+http://50.7.28.226/8048/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju TV1000 Action
+http://50.7.28.226/8049/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju TV1000 Русское
+http://50.7.28.226/8050/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju+ Premiere
+http://50.7.28.226/8119/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju+ Megahit
+http://50.7.28.226/8109/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju+ Comedy
+http://50.7.28.226/8108/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Viju+ Serial
+http://50.7.28.226/9222/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Твоё ТВ
+http://50.7.28.226/9236/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Твоё ТВ Юмор
+http://50.7.28.226/9246/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Еврокино
+http://50.7.28.226/8034/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Kino Living
+http://50.7.28.226/8148/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Amedia 1
+http://50.7.28.226/8035/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Amedia 2 HD
+http://50.7.28.226/8927/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Amedia Premium HD
+http://50.7.28.226/8215/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Amedia Hit
+http://50.7.28.226/8159/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,.red
+http://50.7.28.226/8653/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,.red HD
+http://50.7.28.226/8929/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,.black HD
+http://50.7.28.226/8663/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,.sci-fi HD
+http://50.7.28.226/8115/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,TV XXI
+http://50.7.28.226/8213/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Start Air
+http://50.7.28.226/8398/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Start World
+http://50.7.28.226/8402/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Star Cinema
+http://50.7.28.226/8935/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Star Family
+http://50.7.28.226/8936/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,FilmBox
+http://50.7.28.226/8938/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,FilmBox ArtHouse
+http://50.7.28.226/8661/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Dizi
+http://50.7.28.226/8667/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Romance
+http://50.7.28.226/8672/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Лавстори HD
+http://50.7.28.226/8970/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Suspense HD
+http://50.7.28.226/8971/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Hollywood HD
+http://50.7.28.226/8651/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Bollywood HD
+http://50.7.28.226/8240/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Дорама HD
+http://50.7.28.226/8937/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Время
+http://50.7.28.226/8012/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Дом кино
+http://50.7.28.226/8136/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Дом кино Премиум HD
+http://50.7.28.226/8313/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Кино ТВ HD
+http://50.7.28.226/8207/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Блокбастер HD
+http://50.7.28.226/8939/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Про Любовь HD
+http://50.7.28.226/8940/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Хит HD
+http://50.7.28.226/8941/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Камеди HD
+http://50.7.28.226/8942/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Остросюжетное HD
+http://50.7.28.226/8184/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Наше HD
+http://50.7.28.226/8059/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Премиальное HD
+http://50.7.28.226/8028/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Страшное HD
+http://50.7.28.226/8198/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Шокирующее HD
+http://50.7.28.226/8322/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Trash HD
+http://50.7.28.226/8945/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Иллюзион +
+http://50.7.28.226/8134/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Русский Иллюзион
+http://50.7.28.226/8132/index.m3u8
+#EXTINF:-1 group-title="FDCservers",DetectiveJam HD
+http://50.7.28.226/8963/index.m3u8
+#EXTINF:-1 group-title="FDCservers", VHS-ка
+http://50.7.28.226/8962/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Любимое Кино
+http://50.7.28.226/8946/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Plan B
+http://50.7.28.226/8947/index.m3u8
+#EXTINF:-1 group-title="FDCservers",KION Хит
+http://50.7.28.226/8966/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Мир Сериала HD
+http://50.7.28.226/8662/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Красная линия
+http://50.7.28.226/8390/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Мосфильм. Золотая коллекция HD
+http://50.7.28.226/8707/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Наше любимое HD
+http://50.7.28.226/8310/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Русский бестселлер
+http://50.7.28.226/8162/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Русский детектив
+http://50.7.28.226/8161/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Русский роман
+http://50.7.28.226/8010/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Bolt
+http://50.7.28.226/9329/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,ОТР
+http://50.7.28.226/8146/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Планета РТР
+http://50.7.28.226/8121/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Победа
+http://50.7.28.226/8391/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Звезда
+http://50.7.28.226/8037/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Звезда Плюс
+http://50.7.28.226/8403/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Ностальгия
+http://50.7.28.226/8046/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,История
+http://50.7.28.226/8082/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Патриот
+http://50.7.28.226/8285/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Ретро
+http://50.7.28.226/8331/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Вопросы ответы
+http://50.7.28.226/8053/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Телекафе
+http://50.7.28.226/8094/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Оружие
+http://50.7.28.226/8206/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Top Secret
+http://50.7.28.226/8073/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Dark Family Secrets
+http://50.7.28.226/8074/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,SD REX
+http://50.7.28.226/8026/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Sumiko
+http://50.7.28.226/8968/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,2x2
+http://50.7.28.226/8045/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Суббота
+http://50.7.28.226/8360/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Мульт
+http://50.7.28.226/8157/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Мульт HD
+http://50.7.28.226/8223/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , КиноМульт
+http://50.7.28.226/8576/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Мульт и Музыка
+http://50.7.28.226/8318/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Мультиландия
+http://50.7.28.226/8056/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Капитан Фантастика
+http://50.7.28.226/8321/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Карусель
+http://50.7.28.226/8057/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Уникум
+http://50.7.28.226/8067/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , О!
+http://50.7.28.226/8664/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Мама
+http://50.7.28.226/8158/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Tiji TV
+http://50.7.28.226/8110/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Солнце
+http://50.7.28.226/8054/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Da Vinci
+http://50.7.28.226/8088/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Gulli Girl
+http://50.7.28.226/8097/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , В гостях у сказки HD
+http://50.7.28.226/8133/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Cartoonito
+http://50.7.28.226/8332/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Лёва HD
+http://50.7.28.226/8375/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Рыжий
+http://50.7.28.226/9224/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , СТС Kids HD
+http://50.7.28.226/9223/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Nickelodeon
+http://50.7.28.226/8055/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Nickelodeon HD
+http://50.7.28.226/8166/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Nick Jr
+http://50.7.28.226/8153/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Cartoon Network
+http://50.7.28.226/8064/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , DISNEY CHANNEL
+http://50.7.28.226/8777/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , DISNEY JUNIOR
+http://50.7.28.226/8373/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Balapan
+http://50.7.28.226/8523/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , English Class
+http://50.7.28.226/8208/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , WFC.TV
+http://50.7.28.226/8103/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MTV 00s
+http://50.7.28.226/8032/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MTV 80s
+http://50.7.28.226/8137/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , MTV Live
+http://50.7.28.226/8177/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Euro Plus TV
+http://50.7.28.226/8033/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Ля Минор
+http://50.7.28.226/8101/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Музыка первого
+http://50.7.28.226/8135/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , Russian Music Box
+http://50.7.28.226/8189/index.m3u8
+#EXTINF:-1 group-title="FDCservers" , RU TV
+#EXTINF:-1 group-title="FDCservers",test
+http://50.7.28.226/8185/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Муз ТВ
+http://50.7.28.226/8190/index.m3u8
+#EXTINF:-1 group-title="FDCservers",ТНТ Music
+http://50.7.28.226/8350/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MCM Top
+http://50.7.28.226/8351/index.m3u8
+#EXTINF:-1 group-title="FDCservers",#Ё
+http://50.7.28.226/8406/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Russia
+http://50.7.28.226/8567/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Bridge Classic
+http://50.7.28.226/8450/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Bridge еще больше музыки
+http://50.7.28.226/8527/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч ТВ
+http://50.7.28.226/8016/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! HD
+http://50.7.28.226/8179/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Боец
+http://50.7.28.226/8027/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Матч! Арена
+http://50.7.28.226/8018/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Планета
+http://50.7.28.226/8549/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Матч! Игра
+http://50.7.28.226/8024/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Матч! Страна
+http://50.7.28.226/8019/index.m3u8
+#EXTINF:-1 group-title="FDCservers" ,Матч! Премьер HD
+http://50.7.28.226/8023/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 1
+http://50.7.28.226/8021/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 2
+http://50.7.28.226/8022/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 3
+http://50.7.28.226/8029/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 1 HD
+http://50.7.28.226/8236/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 2 HD
+http://50.7.28.226/8237/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Матч! Футбол 3 HD
+http://50.7.28.226/8238/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Футбол HD
+http://50.7.28.226/8147/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Viasat Sport
+http://50.7.28.226/8015/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 1 HD
+http://50.7.28.226/8705/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 1 KZ
+http://50.7.28.226/8379/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 2 KZ
+http://50.7.28.226/8537/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 1 HD
+http://50.7.28.226/8565/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports 2 HD
+http://50.7.28.226/8676/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports Plus
+http://50.7.28.226/8329/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Setanta Sports UA HD
+http://50.7.28.226/8382/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Беларусь 5 HD
+http://50.7.28.226/8694/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Eurosport 1
+http://50.7.28.226/8013/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Eurosport 1 HD
+http://50.7.28.226/8178/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Eurosport 2 HD
+http://50.7.28.226/8014/index.m3u8
+#EXTINF:-1 group-title="FDCservers", KHL Prime
+http://50.7.28.226/8297/index.m3u8
+#EXTINF:-1 group-title="FDCservers", KHL
+http://50.7.28.226/8025/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Окко Футбол HD
+http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Окко Спорт HD
+http://50.7.28.226/9184/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Окко Спорт 2 HD
+http://50.7.28.226/9183/index.m3u8
+#EXTINF:-1 group-title="FDCservers", ТВ Спорт 
+http://50.7.28.226/9187/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Волейбол 
+http://50.7.28.226/9192/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Хоккейный
+http://50.7.28.226/8367/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Футбольный
+http://50.7.28.226/8368/index.m3u8
+#EXTINF:-1 group-title="FDCservers", Бокс ТВ
+http://50.7.28.226/8201/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Удар
+http://50.7.28.226/8319/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Конний мир
+http://50.7.28.226/8326/index.m3u8
+#EXTINF:-1 group-title="FDCservers", NBA TV HD US
+http://50.7.28.226/8061/index.m3u8
+#EXTINF:-1 group-title="FDCservers", MMA-TV.com HD
+http://50.7.28.226/8380/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 1 IL
+http://50.7.28.226/8339/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 2 IL
+http://50.7.28.226/8341/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 3 IL
+http://50.7.28.226/8340/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sport 4 IL
+http://50.7.28.226/8513/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Prima Sport 1
+http://50.7.28.226/8554/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Prima Sport 2
+http://50.7.28.226/8555/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 1
+http://50.7.28.226/8556/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 2
+http://50.7.28.226/8558/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 3
+http://50.7.28.226/8561/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digi Sport 4
+http://50.7.28.226/8563/index.m3u8
+#EXTINF:-1 group-title="FDCservers",QazSport
+http://50.7.28.226/8541/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Polsat Sport 1
+http://50.7.28.226/8566/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Polsat Sport 2
+http://50.7.28.226/8564/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Premier League
+http://50.7.28.226/8917/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Bundesliga
+http://50.7.28.226/9154/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Mix
+http://50.7.28.226/8674/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Golf
+http://50.7.28.226/8918/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport F1
+http://50.7.28.226/8687/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sports F1
+http://50.7.28.226/8688/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Tennis
+http://50.7.28.226/8294/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport Top Event
+http://50.7.28.226/8293/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Sky Sport News
+http://50.7.28.226/8277/index.m3u8
+#EXTINF:-1 group-title="FDCservers",T Magenta Sport
+http://50.7.28.226/8686/index.m3u8
+#EXTINF:-1 group-title="FDCservers",TRT Spor
+http://50.7.28.226/8827/index.m3u8
+#EXTINF:-1 group-title="FDCservers", a Spor
+http://50.7.28.226/8930/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport 1
+http://50.7.28.226/9022/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport 2
+http://50.7.28.226/9023/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport 3
+http://50.7.28.226/9024/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport 4
+http://50.7.28.226/9025/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Go3 Sport Open
+http://50.7.28.226/9036/index.m3u8
+#EXTINF:-1 group-title="FDCservers",DocuBox
+http://50.7.28.226/8528/index.m3u8
+
+#EXTINF:-1 group-title="FDCservers",MM Ужастик
+http://50.7.28.226/8325/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM 007
+http://50.7.28.226/8327/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Love
+http://50.7.28.226/8328/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Ufo
+http://50.7.28.226/8410/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Боевик classic
+http://50.7.28.226/8411/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Flip UHD
+http://50.7.28.226/8404/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Семейный 1
+http://50.7.28.226/8442/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Семейный 2
+http://50.7.28.226/8449/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Киберпанк
+http://50.7.28.226/8545/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Крутые 90-е
+http://50.7.28.226/8547/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Кунг-фу
+http://50.7.28.226/8559/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Smile
+http://50.7.28.226/8587/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Lesson
+http://50.7.28.226/8597/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Live Planet
+http://50.7.28.226/8599/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM 1941-1945 USSR
+http://50.7.28.226/8614/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Приключения USSR
+http://50.7.28.226/8615/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Сказки USSR
+http://50.7.28.226/8616/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Детектив USSR
+http://50.7.28.226/8656/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM World Hits
+http://50.7.28.226/8617/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Агата Кристи
+http://50.7.28.226/8618/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Вестерн
+http://50.7.28.226/8619/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Воронины
+http://50.7.28.226/8620/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Грайндхаус
+http://50.7.28.226/8621/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Новогодний
+http://50.7.28.226/8622/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Ситком
+http://50.7.28.226/8628/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Ситком 2.0
+http://50.7.28.226/8623/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Криминал
+http://50.7.28.226/8624/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Мифология
+http://50.7.28.226/8625/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Полицейский с рублевки
+http://50.7.28.226/8626/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Синематограф
+http://50.7.28.226/8627/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Стивен Кинг
+http://50.7.28.226/8629/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Ужасы Classic
+http://50.7.28.226/8630/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Ужасы Фантастика
+http://50.7.28.226/8631/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Classic
+http://50.7.28.226/8632/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Translation
+http://50.7.28.226/8633/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Драма
+http://50.7.28.226/8634/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Микромир
+http://50.7.28.226/8635/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Макромир
+http://50.7.28.226/8636/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Experiment
+http://50.7.28.226/8643/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Old School
+http://50.7.28.226/8644/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Family Guy
+http://50.7.28.226/8645/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Открытия
+http://50.7.28.226/8647/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Cпорт
+http://50.7.28.226/8652/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MM Кино Фестиваль
+http://50.7.28.226/8658/index.m3u8
+
+#EXTINF:-1 group-title="FDCservers",Gold Line Psycho
+http://50.7.28.226/8483/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Exist
+http://50.7.28.226/8489/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Детектив
+http://50.7.28.226/8573/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Невский
+http://50.7.28.226/8501/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Series
+http://50.7.28.226/8533/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Island
+http://50.7.28.226/8534/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Evidence
+http://50.7.28.226/8569/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Naked&Funny
+http://50.7.28.226/8570/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Gold Line Survival
+http://50.7.28.226/8571/index.m3u8
+
+#EXTINF:-1 group-title="FDCservers",MS Crime
+http://50.7.28.226/8637/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MS Prisons
+http://50.7.28.226/8638/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MS Toons
+http://50.7.28.226/8639/index.m3u8
+#EXTINF:-1 group-title="FDCservers",MS Young Blood
+http://50.7.28.226/8642/index.m3u8
+
+#EXTINF:-1 group-title="FDCservers",Cineman
+http://50.7.28.226/8574/index.m3u8
+
+#EXTINF:-1 group-title="FDCservers",test1
+http://50.7.28.226/8600/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test2
+http://50.7.28.226/8610/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test3
+http://50.7.28.226/8611/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test4
+http://50.7.28.226/8612/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test5
+http://50.7.28.226/8613/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test6
+http://50.7.28.226/8657/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test7
+http://50.7.28.226/8659/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test8
+http://50.7.28.226/8671/index.m3u8
+#EXTINF:-1 group-title="FDCservers",test9
+http://50.7.28.226/8675/index.m3u8
+
+#EXTINF:-1 group-title="FDCservers",PentHosue HD
+http://50.7.28.226/8342/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Шалун
+http://50.7.28.226/8343/index.m3u8
+#EXTINF:-1 group-title="FDCservers",VividRed HD
+http://50.7.28.226/8374/index.m3u8
+#EXTINF:-1 group-title="FDCservers",French Lover
+http://50.7.28.226/8393/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Blue Hustler
+http://50.7.28.226/8405/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Barely Legal
+http://50.7.28.226/8413/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Exxxotica
+http://50.7.28.226/8414/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Erox
+http://50.7.28.226/8415/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Tushy
+http://50.7.28.226/8407/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Defloration
+http://50.7.28.226/8868/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Legal Porno
+http://50.7.28.226/8869/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Digital Playground
+http://50.7.28.226/9177/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Dorcel TV
+http://50.7.28.226/9235/index.m3u8
+#EXTINF:-1 group-title="FDCservers",XY Mix
+http://50.7.28.226/9237/index.m3u8
+#EXTINF:-1 group-title="FDCservers",?
+http://50.7.28.226/9238/index.m3u8
+#EXTINF:-1 group-title="FDCservers",NF
+http://50.7.28.226/9239/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Kino XXX
+http://50.7.28.226/9240/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Naughty America
+http://50.7.28.226/9241/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Porn Fidelity
+http://50.7.28.226/9242/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Bang Bros
+http://50.7.28.226/9243/index.m3u8
+#EXTINF:-1 group-title="FDCservers",?
+http://50.7.28.226/9244/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Reality kings
+http://50.7.28.226/9245/index.m3u8
+#EXTINF:-1 group-title="FDCservers",XXL
+http://50.7.28.226/9249/index.m3u8
+#EXTINF:-1 group-title="FDCservers",ОХ-АХ
+http://50.7.28.226/9250/index.m3u8
+#EXTINF:-1 group-title="FDCservers",XY Max
+http://50.7.28.226/9251/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Babes TV
+http://50.7.28.226/9252/index.m3u8
+#EXTINF:-1 group-title="FDCservers",XY Plus
+http://50.7.28.226/9254/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Private
+http://50.7.28.226/8203/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Playboy
+http://50.7.28.226/8193/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Русская ночь
+http://50.7.28.226/8191/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Brazzers Europe
+http://50.7.28.226/8131/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Шелк
+http://50.7.28.226/8129/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Hustler HD
+http://50.7.28.226/8128/index.m3u8
+#EXTINF:-1 group-title="FDCservers",Red Lips
+http://50.7.28.226/8030/index.m3u8
