@@ -629,7 +629,6 @@ http://95.66.188.74/Multilandia/mono.m3u8
 #EXTINF:-1 group-title="ВЛАДИНФО (VPN)", О!
 http://95.66.188.74/O/mono.m3u8
 
-
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=6yYS0T3BOIE5OEbUfugE3g&e=2065310406&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
@@ -650,10 +649,6 @@ https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=5o
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=-cGXRoXXrS2vsoC7k5vI2g&e=2065310416&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=UH-VYDWkuJAvGmJA_be6Ig&e=2065310417&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Большая азия
-https://bl.rutube.ru/livestream/495ab964b755baa2c9fc7481a2e40f7d/index.m3u8?s=g0PAkJvoRtGMhVEEEMZQbQ&e=2065310417&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Нано ТВ
-https://bl.rutube.ru/livestream/cf958b6c9ae4504be5fc2c1de358a017/index.m3u8?s=idWUjeu2IUfFIg1zd1Fb9g&e=2065310418&scheme=https
 
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
