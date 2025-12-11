@@ -498,8 +498,6 @@ http://95.66.188.74/CTC_Love/mono.m3u8
 http://95.66.188.74/STS/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Суббота
-http://95.66.188.74/Subbota/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", ТВ3
 http://95.66.188.74/TV3/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Ю ТВ
@@ -532,15 +530,6 @@ http://95.66.188.74/RusRoman/mono.m3u8
 http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
 http://95.66.188.74/RusBestseller/mono.m3u8
-
-#EXTINF:-1 group-title="DDoS (uz)",VIP Comedy HD
-https://stream2.somon.tv/vipcomedy/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",VIP Megahit HD
-https://stream2.somon.tv/vipmegahit/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",VIP Premiere HD
-https://stream2.somon.tv/vippremiera/index.m3u8
-#EXTINF:-1 group-title="DDoS (uz)",VIP Serial HD
-https://stream2.somon.tv/vipserial/index.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=6yYS0T3BOIE5OEbUfugE3g&e=2065310406&scheme=https
