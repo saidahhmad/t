@@ -482,6 +482,66 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
+#EXTINF:-1 group-title="DDoS (uz)", ТНТ4
+http://95.66.188.74/THT4/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", ТНТ
+http://95.66.188.74/TNT/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Пятница
+http://95.66.188.74/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Пятница! HD
+http://95.66.188.74/Pyatnica_HD/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", СТС Love
+http://95.66.188.74/CTC_Love/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", СТС
+http://95.66.188.74/STS/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Суббота
+http://95.66.188.74/Subbota/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", ТВ3
+http://95.66.188.74/TV3/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Ю ТВ
+http://95.66.188.74/U/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", 360 HD
+http://95.66.188.74/360_HD/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", 5 канал
+http://95.66.188.74/5kanal/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Арсенал HD
+http://95.66.188.74/Arsenal_HD/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Че
+http://95.66.188.74/Che/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", 2x2
+http://95.66.188.74/2x2/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Усадьба
+http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Дом кино
+http://95.66.188.74/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Дом кино Премиум HD
+http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Cinema
+http://95.66.188.74/Cinema/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Комедия
+http://95.66.188.74/Comedia/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Русский роман
+http://95.66.188.74/RusRoman/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Русский детектив
+http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
+http://95.66.188.74/RusBestseller/mono.m3u8
+
+#EXTINF:-1 group-title="DDoS (uz)",VIP Comedy HD
+https://stream2.somon.tv/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",VIP Megahit HD
+https://stream2.somon.tv/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",VIP Premiere HD
+https://stream2.somon.tv/vippremiera/index.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",VIP Serial HD
+https://stream2.somon.tv/vipserial/index.m3u8
+
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=6yYS0T3BOIE5OEbUfugE3g&e=2065310406&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
