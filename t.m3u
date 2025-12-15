@@ -508,7 +508,7 @@ http://95.66.188.74/360_HD/mono.m3u8
 http://95.66.188.74/5kanal/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Арсенал HD
 http://95.66.188.74/Arsenal_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS (uz)", Че
+#EXTINF:-1 group-title="DDoS (uz)", Че!
 http://95.66.188.74/Che/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", 2x2
 http://95.66.188.74/2x2/mono.m3u8
@@ -532,51 +532,50 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 http://95.66.188.74/RusBestseller/mono.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=kCcC5C8S6mqIZ0KABe2FkA&e=2065526146&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=SHB_eZGpFK3jpI-BeBl6lw&e=2065742201&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=suM6Eu7wIlvmC_EeYVhdbw&e=2065526147&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=7MXz5cn5OOKi6KHnXPDuIQ&e=2065742202&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=7qLNUaHPTROnu5uDJcMvtQ&e=2065526149&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=QKPlYQfs_Sr6fg8q-YsRQw&e=2065742202&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
-https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=_B4MvHiR_1JLS9iiOThIKw&e=2065526150&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=4VQjDjHXtGsDqtvoLPzrRQ&e=2065742203&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=L56nCmgzZSfGh6iZLPqObA&e=2065526151&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=o3D8_RSo_LLpdm-EFCg2cQ&e=2065742204&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница! HD
-https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=mUgfuu9vN8Hb0ybkDA30zg&e=2065526152&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=rxoDqakBJikVMh5vHWFMOw&e=2065742204&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
-https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=0VLSX-jcCWKf9E0LzYawqQ&e=2065526154&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=Wx0HFZxjfmjipROAwV0JPg&e=2065742205&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",2x2
-https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=oXK9CKJ7P4lk1GC4lxMLaQ&e=2065526155&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=Cq9n8s-8D72sZXTVqPwPQQ&e=2065742206&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=aq4MLMz_nHP8Q2GfuWfY6w&e=2065526157&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=ZoMFDuhZOZAWJ6H597Y8KQ&e=2065742207&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=PmyZ45onyxDxTLv4EI2aMQ&e=2065526171&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=j_DGOwexWZ-n-btdyKcfQg&e=2065742208&scheme=https
 
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/LzBNSJVp2vghQIM51t--qQ,1765612520/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/-Fm_XVDaCdtXfoZc0RqHSw,1765828586/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Ral8eBjrUvt_FIuFwMmFnA,1765612520/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/vTeerTD5NWgBMQ-B4-QplQ,1765828586/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/v3FQQ_iF2XjnKs9Su_6cMA,1765612520/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/qZkzmqgmZmZvxa2020qFGQ,1765828586/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Премьер HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/YiTMBdRh6jlkPUCiG5qT5A,1765612520/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/CzoXx7pOR5hqzGNHxTPijA,1765828586/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Премьер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/nDRh5D6N0lml7r6Igmj_Zw,1765612520/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+https://mhd128.iptv2022.com/p/3EX5NWsComC_shHOUDMdEA,1765828586/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Хоккейный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/k_bk6Waq9YspVFK1pvw5kg,1765612520/streaming/hokkeyniy/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/w2ywttV_BuVyQBeNtoSv0w,1765828586/streaming/hokkeyniy/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Спортивный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/66DpPNJHDvzgvTtDMq625A,1765612520/streaming/sportivniyhd/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/Wr12h22SrWNGOaE5nO-TsQ,1765828586/streaming/sportivniyhd/324/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Футбольный HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/i5Kf0lhtTdUCc4PRk20hsg,1765612520/streaming/footbolniyhd/324/1/index.m3u8
+https://mhd128.iptv2022.com/p/Nv9h31JmWocIcgkZhhuUsA,1765828586/streaming/footbolniyhd/324/1/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
