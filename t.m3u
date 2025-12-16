@@ -531,6 +531,15 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
 http://95.66.188.74/RusBestseller/mono.m3u8
 
+#EXTINF:-1 group-title="DDoS (uz)",ТНТ
+http://31.47.199.45:1401/tnt/index.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",.red
+http://31.47.199.45:1401/red/index.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",.black
+http://31.47.199.45:1401/black/index.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",.sci-fi
+http://31.47.199.45:1401/scifi/index.m3u8
+
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=qELPXiXg4Jhvs6jSat-SDA&e=2065868631&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
@@ -579,3 +588,4 @@ https://mhd128.iptv2022.com/p/dSR4rVmPkWVaK1b0PGUyGg,1765955005/streaming/footbo
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
