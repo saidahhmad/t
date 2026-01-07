@@ -347,6 +347,8 @@ http://s8.rafail1982.uz/1213/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1212/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4ybLk5gS/lux.png"group-title="DDoS 🇺🇿",LuxTV UZ
 http://s8.rafail1982.uz/1210/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4ybLk5gS/lux.png"group-title="DDoS 🇺🇿",LuxTV RU
+http://s8.rafail1982.uz/1210/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SNNhHHG/sc.png"group-title="DDoS 🇺🇿",SCinema UZ
 http://s8.rafail1982.uz/1498/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wB6Kb1YW/sm.png"group-title="DDoS 🇺🇿",SMusic UZ
@@ -548,7 +550,3 @@ http://95.66.188.74/RusBestseller/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
-
-
-
