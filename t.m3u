@@ -22,6 +22,14 @@ http://s8.rafail1982.uz/1435/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1229/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Trace Sport Stars
 http://s8.rafail1982.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="DDoS (uz)",Матч! ФУТБОЛ 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="DDoS (uz)",Матч! ФУТБОЛ 2 HD
+http://tv.ttk.mx:9115
+#EXTINF:-1 group-title="DDoS (uz)",Матч! ФУТБОЛ 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="DDoS (uz)",Футбол
+http://tv.ttk.mx:9065
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Setanta Sports 1 HD
 https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",Setanta Sports 2 HD
@@ -531,16 +539,5 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
 http://95.66.188.74/RusBestseller/mono.m3u8
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1 HD
-http://tv.ttk.mx:9114
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2 HD
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3 HD
-http://tv.ttk.mx:9116
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
-http://tv.ttk.mx:9065
-
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
-
