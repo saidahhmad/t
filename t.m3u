@@ -531,26 +531,16 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
 http://95.66.188.74/RusBestseller/mono.m3u8
 
-#EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=yXvRiyb1jYRPKLInJDQe7g&e=2066735615&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=HjVZnnsd9oq3sUikMvsZeQ&e=2066735616&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=dHvXP_TcGtcOjIlQ2_G_oA&e=2066735617&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТНТ HD
-https://bl.rutube.ru/livestream/f02b63bc8f0ed4dba04bbfce4a1119c5/index.m3u8?s=CPkIkFNEhqUCVeKDfG_Y4A&e=2066735618&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=_YgVh9f3F_MA_9zywquuhA&e=2066735620&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Пятница! HD
-https://bl.rutube.ru/livestream/d90aa86cc5b1d4a7b310c85debcee474/index.m3u8?s=OMCfHJeumNBCHUDooC6VgQ&e=2066735621&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",ТВ3 HD
-https://bl.rutube.ru/livestream/ff99b4d6cc81635fdcd094af044d8d96/index.m3u8?s=P3b-RrU8pviR6dlBHCxmWQ&e=2066735623&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",2x2
-https://bl.rutube.ru/livestream/3d049e88a9b8dc64f4654d712e252d2c/index.m3u8?s=IBbWzt4Kys7T9yU5gmG7lQ&e=2066735624&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=EUNPQZqp3bObQOnrPq9HPw&e=2066735625&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Ю ТВ
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jM3RoVCMQgcmN1s3wwLPLw&e=2066735626&scheme=https
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3 HD
+http://91.207.115.228:5000/c116
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 1 HD
+http://91.207.115.228:5000/c153
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Eurosport 2 HD
+http://91.207.115.228:5000/c154
 
 #EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
