@@ -531,37 +531,16 @@ http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
 #EXTINF:-1 group-title="DDoS (uz)", Русский бестселлер
 http://95.66.188.74/RusBestseller/mono.m3u8
 
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut3HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Игра HD
-http://arbiter.bolshoe.tv/?path=abr2/sport2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Боец
-http://arbiter.bolshoe.tv/?path=abr1/boets/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Страна HD
-http://arbiter.bolshoe.tv/?path=abr1/ntvsport/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",MMA-TV.COM HD
-http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjYgNzo1NToxMyBBTSZoYXNoX3ZhbHVlPXdBcUFmZDVNTll1TjNFQlZrWkRYdXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 1 HD
+http://tv.ttk.mx:9114
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 2 HD
+http://tv.ttk.mx:9111
+#EXTINF:-1 group-title="Спорткомплекс 🏆",МАТЧ! ФУТБОЛ 3 HD
+http://tv.ttk.mx:9116
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
+http://tv.ttk.mx:9065
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS (uz)",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
