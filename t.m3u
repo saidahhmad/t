@@ -40,6 +40,12 @@ http://tv.ttk.mx:9115
 http://tv.ttk.mx:9116
 #EXTINF:-1 group-title="DDoS 🇺🇿",Футбол
 http://tv.ttk.mx:9065
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 2
+http://193.25.8.59:8000/fut2
+#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
 https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 2 HD
@@ -550,3 +556,4 @@ http://95.66.188.74/RusBestseller/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
