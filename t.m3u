@@ -24,47 +24,14 @@ http://s8.rafail1982.uz/1229/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Премьер HD
-http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9108
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9111
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9112
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9114
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9115
-#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9116
-#EXTINF:-1 group-title="DDoS 🇺🇿",Футбол
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-http://tv.ttk.mx:9065
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
-https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 2 HD
-https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 2 HD
 http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Eurosport 1
 http://s8.rafail1982.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Eurosport 1 HD
-https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Eurosport 2 HD
-https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",MMA-TV.com
 http://s8.rafail1982.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",MMA-TV.com HD
-https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",KHL
 http://s8.rafail1982.uz/1028/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Кинохит
@@ -105,8 +72,6 @@ http://s8.rafail1982.uz/1443/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Cinema
 http://s8.rafail1982.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Cinema HD
-https://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",AzTV
 http://s8.rafail1982.uz/1455/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Qazaqstan
@@ -274,14 +239,6 @@ http://s8.rafail1982.uz/1050/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Дорама
 http://s8.rafail1982.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Дорама HD
-https://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Русский детектив
-https://vod.splay.uz/live_splay/original/RusskiyDetektiv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Русский детектив
-https://flussonic.salomtv.uz/russkiy_detektiv/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Русский бестселлер
-https://flussonic.salomtv.uz/russkiy_bestseller/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Музыка Первого
 http://s8.rafail1982.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",RU TV
@@ -316,8 +273,6 @@ http://s8.rafail1982.uz/1056/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS 🇺🇿",ZOR TV UZ
 http://s8.rafail1982.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS 🇺🇿",ZOR TV HD UZ
-https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS 🇺🇿",Milliy TV UZ
 http://s8.rafail1982.uz/1216/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS 🇺🇿",Milliy TV HD UZ
@@ -338,10 +293,6 @@ http://s8.rafail1982.uz/1009/tracks-v1a2/mono.m3u8
 http://s8.rafail1982.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS 🇺🇿",Futbol TV RU
 http://s8.rafail1982.uz/1010/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS 🇺🇿",Futbol TV HD UZ
-https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X123tQ0/futbol.png"group-title="DDoS 🇺🇿",Futbol TV HD RU
-https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MpZp7QBk/sport.png"group-title="DDoS 🇺🇿",Sport UZ
 http://s8.rafail1982.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7fdzyNz/travel.png"group-title="DDoS 🇺🇿",TravelTV
@@ -372,16 +323,12 @@ http://s8.rafail1982.uz/1290/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1291/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfxZL4S/myday.png"group-title="DDoS 🇺🇿",MYDAYTV UZ
 http://s8.rafail1982.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfxZL4S/myday.png"group-title="DDoS 🇺🇿",MYDAYTV HD UZ
-https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3RfdwMFn/itvc.png"group-title="DDoS 🇺🇿",iTV Cinema UZ
 http://s8.rafail1982.uz/4000/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5yZywwGF/itvm.png"group-title="DDoS 🇺🇿",iTV Music UZ
 http://s8.rafail1982.uz/4001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8nn3TYN/uzb11.png"group-title="DDoS 🇺🇿",O'zbekiston UZ
 http://s8.rafail1982.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8nn3TYN/uzb11.png"group-title="DDoS 🇺🇿",O'zbekiston UZ
-https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kgbF3Gw3/yoshlar.png"group-title="DDoS 🇺🇿",Yoshlar UZ
 http://s8.rafail1982.uz/1002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yYNVWSS7/toshkent.png"group-title="DDoS 🇺🇿",Toshkent UZ
@@ -427,7 +374,7 @@ http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6BV43y/ttvk.png"group-title="DDoS 🇺🇿",TTV Kino UZ
 http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7MmfnbZ/ttvm.png"group-title="DDoS 🇺🇿",TTV Musiqa UZ
-https://vod.splay.uz/live_splay/original/TTV_Musiqa/tracks-v1a1/mono.m3u8
+https://s8.rafail1982.uz/1487/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrCbkdS/jiz.png"group-title="DDoS 🇺🇿",Jizzax TV UZ
 http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5thF5WCb/ish.png"group-title="DDoS 🇺🇿",ishonch TV UZ
@@ -506,54 +453,6 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
-#EXTINF:-1 group-title="DDoS 🇺🇿", ТНТ4
-http://95.66.188.74/THT4/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", ТНТ
-http://95.66.188.74/TNT/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", ТНТ HD
-http://95.66.188.74/TNT_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Пятница
-http://95.66.188.74/Pyatnica/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Пятница! HD
-http://95.66.188.74/Pyatnica_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", СТС Love
-http://95.66.188.74/CTC_Love/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", СТС
-http://95.66.188.74/STS/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", ТВ3
-http://95.66.188.74/TV3/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Ю ТВ
-http://95.66.188.74/U/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", 360 HD
-http://95.66.188.74/360_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Пятый канал
-http://95.66.188.74/5kanal/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Арсенал HD
-http://95.66.188.74/Arsenal_HD/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Че!
-http://95.66.188.74/Che/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", 2x2
-http://95.66.188.74/2x2/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Усадьба
-http://95.66.188.74/Usadba/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Дом кино
-http://95.66.188.74/Dom_kino/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Дом кино Премиум HD
-http://95.66.188.74/DomKinoPremiumHD/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Кинопоказ
-http://95.66.188.74/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Cinema
-http://95.66.188.74/Cinema/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Комедия
-http://95.66.188.74/Comedia/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Русский роман
-http://95.66.188.74/RusRoman/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Русский детектив
-http://95.66.188.74/Russkiy_Detektiv/mono.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Русский бестселлер
-http://95.66.188.74/RusBestseller/mono.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
