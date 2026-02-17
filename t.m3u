@@ -24,6 +24,12 @@ http://s8.rafail1982.uz/1229/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Матч! HD
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 1
+http://193.25.8.59:8000/fut
+#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 2
+http://193.25.8.59:8000/fut2
+#EXTINF:-1 group-title="DDoS 🇺🇿",Матч! Футбол 3
+http://193.25.8.59:8000/fut3
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 2 HD
@@ -84,8 +90,6 @@ http://s8.rafail1982.uz/1448/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1449/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Euronews
 http://s8.rafail1982.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Euronews
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",France 24
 http://s8.rafail1982.uz/1241/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",BBC World News
@@ -455,4 +459,5 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
 
