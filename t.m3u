@@ -27,13 +27,13 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿", Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10234/logo_256_1660805619.png", Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/MugJ4ULlNiUapa7ck5xrEQ,1773086407/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10235/logo_256_1660805632.png", Матч! Футбол 2 HD
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/JG6YX672u2zv6wjtWnF5RA,1773086407/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Lime (VPN 🇷🇺)" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10236/logo_256_1660805653.png", Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Lime (VPN 🇷🇺)", Матч! Футбол 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartTV; Linux; Tizen 6.0)
 https://mhd128.iptv2022.com/p/nWqdzlOLT9Nd0jB3_2l7nQ,1773086407/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
@@ -533,8 +533,6 @@ https://telluri.ru/video/vod/1804.m3u8
 https://telluri.ru/video/tr-and/1400.m3u8
 #EXTINF:-1 group-title="Бегет",Еврокино
 https://telluri.ru/video/vod/903.m3u8
-#EXTINF:-1 group-title="Бегет",Муви ТВ
-https://telluri.ru/video/tr-and/5007.m3u8
 #EXTINF:-1 group-title="Бегет",Феникс+кино
 https://telluri.ru/video/tr-and/332.m3u8
 #EXTINF:-1 group-title="Бегет",Кинопоказ
@@ -544,3 +542,4 @@ https://telluri.ru/video/5111.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
+
