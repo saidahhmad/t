@@ -26,40 +26,58 @@ http://s8.rafail1982.uz/1274/tracks-v1a1/mono.m3u8
 https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 
 #EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/match_premier_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-football1" catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Футбол 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/match_futbol_1_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-football2" catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Футбол 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/match_futbol_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="match-football3" catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Футбол 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/match_futbol_3_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport" catchup="flussonic" catchup-days="1" group-title="Спортивные",Окко Спорт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/okko_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-football" catchup="flussonic" catchup-days="1" group-title="Спортивные",Окко Футбол HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/okko_futbol_hd/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" catchup="flussonic" catchup-days="1" group-title="Спортивные",Окко Прайм Спорт HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/okko_praym_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="Спортивные",Футбол HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/futbol_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/setanta_sports_1_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/setanta_sports_2_hd/index.m3u8
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные",Setanta Казахстан HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/setanta_sports_qazaqstan_hd/index.m3u8
 #EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" group-title="Спортивные",Setanta Sports HD Украина
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/setanta_sports_ukraine_hd/index.m3u8
 #EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" group-title="Спортивные",Setanta Sports+ HD Украина
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-football" group-title="Спортивные",Sky Sports Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/sky_sport_football_hd/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-apl" group-title="Спортивные",Sky Sports Premier League HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/sky_sport_premier_league_hd/index.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",viju+ Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/viju_plus_sport_hd/index.m3u8
 #EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" group-title="Спортивные",Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/eurosport_1_hd/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" group-title="Спортивные",Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://100.free-iptvchannel.workers.dev/eurosport_2_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
