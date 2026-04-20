@@ -428,7 +428,7 @@ http://s8.rafail1982.uz/1494/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wv6BV43y/ttvk.png"group-title="DDoS 🇺🇿",TTV Kino UZ
 http://s8.rafail1982.uz/1486/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7MmfnbZ/ttvm.png"group-title="DDoS 🇺🇿",TTV Musiqa UZ
-https://s8.rafail1982.uz/1487/tracks-v1a1/mono.m3u8
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNrCbkdS/jiz.png"group-title="DDoS 🇺🇿",Jizzax TV UZ
 http://s8.rafail1982.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5thF5WCb/ish.png"group-title="DDoS 🇺🇿",ishonch TV UZ
@@ -712,6 +712,8 @@ https://100.free-iptvchannel.workers.dev/sapfir_hd/index.m3u8
 https://100.free-iptvchannel.workers.dev/russkiy_roman/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Русский Бестселлер
 https://100.free-iptvchannel.workers.dev/russkij_bestseller/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Русский Детектив
+https://100.free-iptvchannel.workers.dev/russkij_detektiv/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Фильмовые",Мир сериала HD
 https://100.free-iptvchannel.workers.dev/mir_seriala_hd/index.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="Фильмовые",НСТ
@@ -759,4 +761,3 @@ https://100.free-iptvchannel.workers.dev/kino_i_zhizn_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
-
