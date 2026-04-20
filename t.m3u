@@ -55,6 +55,12 @@ https://100.free-iptvchannel.workers.dev/setanta_sports_plus_ukraine_hd/index.m3
 https://100.free-iptvchannel.workers.dev/sky_sport_football_hd/index.m3u8
 #EXTINF:-1 tvg-id="sky-sports-apl" group-title="Спортивные",Sky Sports Premier League HD
 https://100.free-iptvchannel.workers.dev/sky_sport_premier_league_hd/index.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",viju+ Sport HD
+https://100.free-iptvchannel.workers.dev/viju_plus_sport_hd/index.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" group-title="Спортивные",Eurosport 1 HD
+https://100.free-iptvchannel.workers.dev/eurosport_1_hd/index.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" group-title="Спортивные",Eurosport 2 HD
+https://100.free-iptvchannel.workers.dev/eurosport_2_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 1 HD
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
@@ -557,6 +563,11 @@ https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
 https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
 https://jekalich.github.io/smtk/channels/pobeda.m3u8
+
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
+https://100.free-iptvchannel.workers.dev/dom_kino_premium_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Комедия
+https://100.free-iptvchannel.workers.dev/komedija/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
