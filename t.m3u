@@ -334,7 +334,7 @@ http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS 🇺🇿",ZOR TV UZ
 http://s8.rafail1982.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS 🇺🇿",ZOR TV HD UZ
-https://stream2.clicktv.platform24.tv/mbrjwt/8d5f198cf6e8091678b8c2c3717549ed8b8c2a30-4783-0-clk2928894-5-3281916730-1776677352-e128-RwOBXKPLS4o6OFYyVxXkEATN4xPcNomWx4Kk-_ccr0A/2.m3u8?pid=261
+https://stream1.clicktv.platform24.tv/mbrjwt/8d5f198cf6e8091678b8c2c3717549ed8b8c2a30-4783-0-clk2928894-5-3281916730-1776678284-e128-0km5j3xG-u0DCw4genhCgafPx9QF_GSmMr3_aVHJblM/1.m3u8?pid=256
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS 🇺🇿",Milliy TV UZ
 http://s8.rafail1982.uz/1216/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS 🇺🇿",Milliy TV HD UZ
@@ -549,72 +549,23 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=lu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=pFQDbCz2FEuRiJM_BQtoDg&e=2071314923&scheme=https
 
-#EXTINF:-1 group-title="Кино" tvg-id="amedia1",Amedia 1
-https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="amedia2",Amedia 2
-https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="amedia-hit",Amedia Hit
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="amedia-premium",Amedia Premium
-https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/3/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-megahit",Viju+ Megahit
-https://jekalich.github.io/smtk/channels/vip-megahit.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere",Viju+ Premiere
-https://jekalich.github.io/smtk/channels/vip-premiere.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy",Viju+ Comedy
-https://jekalich.github.io/smtk/channels/vip-comedy.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="vip-serial",Viju+ Serial
-http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzY2Njg3ODUsImlhdCI6MTc3NjU4MjM4NSwiY2lkIjo2LCJ1aWQiOjEwMzQ1OTYzODUsInJlZyI6ZmFsc2UsImlwIjoyNDU0MTIwMzgwLCJhZHVsdCI6ZmFsc2V9.3zotM6fZ8imn_3cuPUR5vhuzARt9PG5r2Yjw1YOxe1o&offset=10
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000",Viju TV1000
-https://jekalich.github.io/smtk/channels/tv1000.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",Viju TV1000 Action
-https://jekalich.github.io/smtk/channels/tv1000-action.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",Viju TV1000 Русское
-https://jekalich.github.io/smtk/channels/tv1000-russkoe-kino.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama",Дорама
 https://jekalich.github.io/smtk/channels/dorama.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus",Иллюзион+
-https://jekalich.github.io/smtk/channels/illuzion-plus.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="cinema-ru",Cinema
-https://jekalich.github.io/smtk/channels/cinema-ru.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino",Любимое кино
-https://jekalich.github.io/smtk/channels/lubimoe-kino.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kineko",Кинеко
-https://jekalich.github.io/smtk/channels/kineko.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="tvxxi",TV XXI
-https://jekalich.github.io/smtk/channels/tvxxi.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="bolt-ru",Bolt
-https://jekalich.github.io/smtk/channels/bolt-ru.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="mir-seriala",Мир сериала
-https://jekalich.github.io/smtk/channels/mir-seriala.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="pobeda",Победа
-https://jekalich.github.io/smtk/channels/pobeda.m3u8
-
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
 https://100.free-iptvchannel.workers.dev/dom_kino_premium_hd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Комедия
 https://100.free-iptvchannel.workers.dev/komedija/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кинопремьера HD
 https://100.free-iptvchannel.workers.dev/kinopremera_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киномикс
-https://100.free-iptvchannel.workers.dev/kinomiks/index.m3u8
-#EXTINF:-1 tvg-id="kinomiks" catchup="flussonic" catchup-days="1" group-title="Фильмовые",Киномикс HD
+#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Киномикс HD
 https://100.free-iptvchannel.workers.dev/kinomiks_hd/index.m3u8
 #EXTINF:-1 tvg-id="kinokult" group-title="Фильмовые",КиноКульт HD
 https://100.free-iptvchannel.workers.dev/kinokult_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинохит
-https://100.free-iptvchannel.workers.dev/kinohit/index.m3u8
 #EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит HD
 https://100.free-iptvchannel.workers.dev/kinohit_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киносерия
-https://100.free-iptvchannel.workers.dev/kinoseriya/index.m3u8
 #EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия HD
 https://100.free-iptvchannel.workers.dev/kinoseriya_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Киносемья
-https://100.free-iptvchannel.workers.dev/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Киносемья HD
-https://100.free-iptvchannel.workers.dev/kinosemya_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Кинокомедия
 https://100.free-iptvchannel.workers.dev/kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия HD
 https://100.free-iptvchannel.workers.dev/kinokomediya_hd/index.m3u8
@@ -622,14 +573,10 @@ https://100.free-iptvchannel.workers.dev/kinokomediya_hd/index.m3u8
 https://100.free-iptvchannel.workers.dev/kinosvidanie_hd/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас HD
 https://100.free-iptvchannel.workers.dev/kinouzhas_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Наше новое кино
-https://100.free-iptvchannel.workers.dev/nashe_novoe_kino/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Наше новое кино HD
 https://100.free-iptvchannel.workers.dev/nashe_novoe_kino_hd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Родное кино
 https://100.free-iptvchannel.workers.dev/rodnoe_kino/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Мужское кино
-https://100.free-iptvchannel.workers.dev/muzhskoe_kino/index.m3u8
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское кино HD
 https://100.free-iptvchannel.workers.dev/muzhskoe_kino_hd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Индийское кино
@@ -664,16 +611,10 @@ https://100.free-iptvchannel.workers.dev/indiya_hd/index.m3u8
 https://100.free-iptvchannel.workers.dev/nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="kinoliving" group-title="Фильмовые",KinoLiving HD
 https://100.free-iptvchannel.workers.dev/kinoliving_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",.black
-https://100.free-iptvchannel.workers.dev/black/index.m3u8
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Фильмовые",.black HD
 https://100.free-iptvchannel.workers.dev/black_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",.red
-https://100.free-iptvchannel.workers.dev/red/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.red HD
 https://100.free-iptvchannel.workers.dev/red_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",.sci-fi
-https://100.free-iptvchannel.workers.dev/sci_fi/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",.sci-fi HD
 https://100.free-iptvchannel.workers.dev/sci_fi_hd/index.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="Фильмовые",Amedia 1 HD
@@ -708,12 +649,8 @@ https://100.free-iptvchannel.workers.dev/viju_plus_megahit_hd/index.m3u8
 https://100.free-iptvchannel.workers.dev/viju_plus_premiere_hd/index.m3u8
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" group-title="Фильмовые",viju+ Serial HD
 https://100.free-iptvchannel.workers.dev/viju_plus_serial_hd/index.m3u8
-#EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
-https://100.free-iptvchannel.workers.dev/kineko/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко HD
 https://100.free-iptvchannel.workers.dev/kineko_hd/index.m3u8
-#EXTINF:-1 group-title="Фильмовые",Сапфир
-https://100.free-iptvchannel.workers.dev/sapfir/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Сапфир HD
 https://100.free-iptvchannel.workers.dev/sapfir_hd/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Русский Роман
