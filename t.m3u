@@ -620,6 +620,8 @@ https://kino.zunotv.workers.dev/sapfir_hd/index.m3u8
 https://kino.zunotv.workers.dev/russkiy_roman/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Русский Бестселлер
 https://kino.zunotv.workers.dev/russkij_bestseller/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Русский Детектив
+https://kino.zunotv.workers.dev/russkij_detektiv/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Фильмовые",Мир сериала HD
 https://kino.zunotv.workers.dev/mir_seriala_hd/index.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="Фильмовые",НСТ
