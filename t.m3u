@@ -490,54 +490,58 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=lu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=pFQDbCz2FEuRiJM_BQtoDg&e=2071314923&scheme=https
 
+#EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино
+http://tv.woobl.ru/dom_kino/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
-http://kino.zunotv.workers.dev/dom_kino_premium_hd/index.m3u8
+http://tv.woobl.ru/dom_kino_premium_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Комедия
-http://kino.zunotv.workers.dev/komedija/index.m3u8
+http://tv.woobl.ru/komedija/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинопремьера HD
-http://kino.zunotv.workers.dev/kinopremera_hd/index.m3u8
+http://tv.woobl.ru/kinopremera_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киномикс
-http://kino.zunotv.workers.dev/kinomiks/index.m3u8
+http://tv.woobl.ru/kinomiks/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kinomiks" catchup="flussonic" catchup-days="1" group-title="Фильмовые",Киномикс HD
-http://kino.zunotv.workers.dev/kinomiks_hd/index.m3u8
+http://tv.woobl.ru/kinomiks_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kinokult" group-title="Фильмовые",КиноКульт HD
-http://kino.zunotv.workers.dev/kinokult_hd/index.m3u8
+http://tv.woobl.ru/kinokult_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинохит
-http://kino.zunotv.workers.dev/kinohit/index.m3u8
+http://tv.woobl.ru/kinohit/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит HD
-http://kino.zunotv.workers.dev/kinohit_hd/index.m3u8
+http://tv.woobl.ru/kinohit_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносерия
-http://kino.zunotv.workers.dev/kinoseriya/index.m3u8
+http://tv.woobl.ru/kinoseriya/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия HD
-http://kino.zunotv.workers.dev/kinoseriya_hd/index.m3u8
+http://tv.woobl.ru/kinoseriya_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносемья
-http://kino.zunotv.workers.dev/kinosemya/index.m3u8
+http://tv.woobl.ru/kinosemya/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносемья HD
-http://kino.zunotv.workers.dev/kinosemya_hd/index.m3u8
+http://tv.woobl.ru/kinosemya_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия
-http://kino.zunotv.workers.dev/kinokomediya/index.m3u8
+http://tv.woobl.ru/kinokomediya/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинокомедия HD
-http://kino.zunotv.workers.dev/kinokomediya_hd/index.m3u8
+http://tv.woobl.ru/kinokomediya_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Киносвидание
+http://tv.woobl.ru/kinosvidanie/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносвидание HD
-http://kino.zunotv.workers.dev/kinosvidanie_hd/index.m3u8
+http://tv.woobl.ru/kinosvidanie_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас HD
-http://kino.zunotv.workers.dev/kinouzhas_hd/index.m3u8
+http://tv.woobl.ru/kinouzhas_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Наше новое кино
-http://kino.zunotv.workers.dev/nashe_novoe_kino/index.m3u8
+http://tv.woobl.ru/nashe_novoe_kino/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Наше новое кино HD
-http://kino.zunotv.workers.dev/nashe_novoe_kino_hd/index.m3u8
+http://tv.woobl.ru/nashe_novoe_kino_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Родное кино
-http://kino.zunotv.workers.dev/rodnoe_kino/index.m3u8
+http://tv.woobl.ru/rodnoe_kino/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Мужское кино
-http://kino.zunotv.workers.dev/muzhskoe_kino/index.m3u8
+http://tv.woobl.ru/muzhskoe_kino/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское кино HD
-http://kino.zunotv.workers.dev/muzhskoe_kino_hd/index.m3u8
+http://tv.woobl.ru/muzhskoe_kino_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Индийское кино
-http://kino.zunotv.workers.dev/indiyskoe_kino/index.m3u8
+http://tv.woobl.ru/indiyskoe_kino/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит HD
-http://kino.zunotv.workers.dev/ntv_hit_hd/index.m3u8
+http://tv.woobl.ru/ntv_hit_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал HD
-http://kino.zunotv.workers.dev/ntv_serial_hd/index.m3u8
+http://tv.woobl.ru/ntv_serial_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Ретро ТВ
 http://kino.zunotv.workers.dev/retro/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",Еврокино
