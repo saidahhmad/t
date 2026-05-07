@@ -714,6 +714,8 @@ http://tv.woobl.ru/vhs_serial_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/russkoe_kino_4k/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://kij-tv.ru/themes/custom/kijtv/logo.png" group-title="Фильмовые",Кино и Жизнь HD
 http://tv.woobl.ru/kino_i_zhizn_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Кинодром HD
+http://tv.woobl.ru/kinodrom_hd/video.m3u8?token=test55555
 
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://kino.zunotv.workers.dev/match_arena/index.m3u8
