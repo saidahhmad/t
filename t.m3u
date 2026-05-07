@@ -608,60 +608,73 @@ http://tv.woobl.ru/feniks_plyus_kino/video.m3u8?token=test55555
 http://tv.woobl.ru/cinema/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмовые",Cinema HD
 http://tv.woobl.ru/cinema_hd/video.m3u8?token=test55555
-
-
 #EXTINF:-1 group-title="Фильмовые",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" group-title="Фильмовые",ТВ 21
-http://kino.zunotv.workers.dev/tv_21/index.m3u8
+http://tv.woobl.ru/tv_21/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="tv1000" tvg-name="viju TV1000" group-title="Фильмовые",viju TV1000 HD
-http://kino.zunotv.workers.dev/viju_tv1000_hd/index.m3u8
+http://tv.woobl.ru/viju_tv1000_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="tv1000-action" tvg-name="viju TV1000 Action HD" group-title="Фильмовые",viju TV1000 Action HD
-http://kino.zunotv.workers.dev/viju_tv1000_action_hd/index.m3u8
+http://tv.woobl.ru/viju_tv1000_action_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="viju TV1000 Русское кино HD" group-title="Фильмовые",viju TV1000 Русское кино HD
-http://kino.zunotv.workers.dev/viju_tv1000_russkoe_hd/index.m3u8
+http://tv.woobl.ru/viju_tv1000_russkoe_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" group-title="Фильмовые",viju TV1000 Новелла HD
-http://kino.zunotv.workers.dev/viju_tv1000_novella_hd/index.m3u8
+http://tv.woobl.ru/viju_tv1000_novella_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Романтика" group-title="Фильмовые",viju TV1000 Романтика HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1779036435&md5=j_DfpJ0iekRxaRmipXo5gg
 #EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" group-title="Фильмовые",viju+ Comedy HD
-http://kino.zunotv.workers.dev/viju_plus_comedy_hd/index.m3u8
+http://tv.woobl.ru/viju_plus_comedy_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megabit HD" group-title="Фильмовые",viju+ Megahit HD
-http://kino.zunotv.workers.dev/viju_plus_megahit_hd/index.m3u8
+http://tv.woobl.ru/viju_plus_megahit_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" group-title="Фильмовые",viju+ Premiere HD
-http://kino.zunotv.workers.dev/viju_plus_premiere_hd/index.m3u8
+http://tv.woobl.ru/viju_plus_premiere_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" group-title="Фильмовые",viju+ Serial HD
-http://kino.zunotv.workers.dev/viju_plus_serial_hd/index.m3u8
+http://tv.woobl.ru/viju_plus_serial_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
-http://kino.zunotv.workers.dev/kineko/index.m3u8
+http://tv.woobl.ru/kineko/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко HD
-http://kino.zunotv.workers.dev/kineko_hd/index.m3u8
+http://tv.woobl.ru/kineko_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Сапфир
-http://kino.zunotv.workers.dev/sapfir/index.m3u8
+http://tv.woobl.ru/sapfir/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Сапфир HD
-http://kino.zunotv.workers.dev/sapfir_hd/index.m3u8
+http://tv.woobl.ru/sapfir_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Русский Роман
-http://kino.zunotv.workers.dev/russkiy_roman/index.m3u8
+http://tv.woobl.ru/russkiy_roman/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Русский Роман HD
+http://tv.woobl.ru/russkiy_roman_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Русский Бестселлер
-http://kino.zunotv.workers.dev/russkij_bestseller/index.m3u8
+http://tv.woobl.ru/russkij_bestseller/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Русский Детектив
-http://kino.zunotv.workers.dev/russkij_detektiv/index.m3u8
+http://tv.woobl.ru/russkij_detektiv/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Кино ТВ HD
+http://tv.woobl.ru/kino_tv_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Фильмовые",Мир сериала HD
-http://kino.zunotv.workers.dev/mir_seriala_hd/index.m3u8
+http://tv.woobl.ru/mir_seriala_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="nst" group-title="Фильмовые",НСТ
-http://kino.zunotv.workers.dev/nst/index.m3u8
+http://tv.woobl.ru/nst/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Криминальное HD
+http://tv.woobl.ru/kriminalnoe_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="Фильмовые",Любимое кино HD
-http://kino.zunotv.workers.dev/nashe_ljubimoe_kino/index.m3u8
+http://tv.woobl.ru/nashe_ljubimoe_kino/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",FX HD
+http://tv.woobl.ru/fx_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",FX Life HD
+http://tv.woobl.ru/fx_life_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="start-air" group-title="Фильмовые",Start Air HD
-http://kino.zunotv.workers.dev/start_air_hd/index.m3u8
+http://tv.woobl.ru/start_air_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World HD
-http://kino.zunotv.workers.dev/start_world_hd/index.m3u8
+http://tv.woobl.ru/start_world_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="saga-tv" tvg-name="Saga TV HD" group-title="Фильмовые",Saga TV HD
-http://kino.zunotv.workers.dev/saga_tv_hd/index.m3u8
+http://tv.woobl.ru/saga_tv_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Scream HD
+http://tv.woobl.ru/scream_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Flixsnip HD
+http://tv.woobl.ru/flixsnip_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Фильмовые",Машина Времени HD
-http://kino.zunotv.workers.dev/gosfilmofond_mashina_vremeni_hd/index.m3u8
+http://tv.woobl.ru/gosfilmofond_mashina_vremeni_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="bolt-ru" group-title="Фильмовые",Bolt HD
-http://kino.zunotv.workers.dev/bolt_hd/index.m3u8
+http://tv.woobl.ru/bolt_hd/video.m3u8?token=test55555
+
 #EXTINF:-1 tvg-id="no_epg" group-title="Фильмовые",Страх HD
 http://kino.zunotv.workers.dev/strah_hd/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="Фильмовые",Hollywood HD
