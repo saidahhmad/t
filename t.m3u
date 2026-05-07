@@ -674,35 +674,47 @@ http://tv.woobl.ru/flixsnip_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/gosfilmofond_mashina_vremeni_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="bolt-ru" group-title="Фильмовые",Bolt HD
 http://tv.woobl.ru/bolt_hd/video.m3u8?token=test55555
-
+#EXTINF:-1 group-title="Фильмовые",Фантастика HD
+http://tv.woobl.ru/fantastika_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="no_epg" group-title="Фильмовые",Страх HD
-http://kino.zunotv.workers.dev/strah_hd/index.m3u8
+http://tv.woobl.ru/strah_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="hollywood" group-title="Фильмовые",Hollywood HD
-http://kino.zunotv.workers.dev/hollywood_hd/index.m3u8
+http://tv.woobl.ru/hollywood_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="sumiko" group-title="Фильмовые",Sumiko HD
-http://kino.zunotv.workers.dev/sumiko_hd/index.m3u8
+http://tv.woobl.ru/sumiko_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Akudji TV HD
+http://tv.woobl.ru/akudji_tv_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Kinojam 1 HD
+http://tv.woobl.ru/kinojam_1_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Kinojam 2 HD
+http://tv.woobl.ru/kinojam_2_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Kion Хит HD
+http://tv.woobl.ru/kion_hit_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия HD" group-title="Фильмовые",Star Family HD
-http://kino.zunotv.workers.dev/star_family_hd/index.m3u8
+http://tv.woobl.ru/star_family_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="star-cinema" group-title="Фильмовые",Star Cinema HD
-http://kino.zunotv.workers.dev/star_cinema_hd/index.m3u8
+http://tv.woobl.ru/star_cinema_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="horrortv" group-title="Фильмовые",Horror TV HD
-http://kino.zunotv.workers.dev/horror_hd/index.m3u8
+http://tv.woobl.ru/horror_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="novellatv" group-title="Фильмовые",Novella TV HD
-http://kino.zunotv.workers.dev/novella_tv_hd/index.m3u8
+http://tv.woobl.ru/novella_tv_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",DetectiveJam HD
+http://tv.woobl.ru/detectivejam_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="plan-b" group-title="Фильмовые",Plan B HD
-http://kino.zunotv.workers.dev/plan_b_hd/index.m3u8
+http://tv.woobl.ru/plan_b_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="romance" group-title="Фильмовые",Romance HD
-http://kino.zunotv.workers.dev/romance_hd/index.m3u8
+http://tv.woobl.ru/romance_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="suspense" group-title="Фильмовые",Suspense HD
-http://kino.zunotv.workers.dev/suspense_hd/index.m3u8
+http://tv.woobl.ru/suspense_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Фильмовые",Bollywood HD
-http://kino.zunotv.workers.dev/bollywood_hd/index.m3u8
+http://tv.woobl.ru/bollywood_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="vhska-serial" group-title="Фильмовые",VHS-ка Сериал HD
-http://kino.zunotv.workers.dev/vhs_serial_hd/index.m3u8
+http://tv.woobl.ru/vhs_serial_hd/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="4k-ruskino" group-title="Фильмовые",VHS-ка Русское кино HD
-http://kino.zunotv.workers.dev/russkoe_kino_4k/index.m3u8
+http://tv.woobl.ru/russkoe_kino_4k/video.m3u8?token=test55555
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://kij-tv.ru/themes/custom/kijtv/logo.png" group-title="Фильмовые",Кино и Жизнь HD
-http://kino.zunotv.workers.dev/kino_i_zhizn_hd/index.m3u8
+http://tv.woobl.ru/kino_i_zhizn_hd/video.m3u8?token=test55555
+
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://kino.zunotv.workers.dev/match_arena/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
