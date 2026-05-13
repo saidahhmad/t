@@ -490,9 +490,9 @@ https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=lu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=pFQDbCz2FEuRiJM_BQtoDg&e=2071314923&scheme=https
 
-#EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино
+#EXTINF:-1 group-title="Фильмовые",Дом Кино
 http://tv.woobl.ru/dom_kino/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="domkino-premium" group-title="Фильмовые",Дом Кино Премиум HD
+#EXTINF:-1 group-title="Фильмовые",Дом Кино Премиум HD
 http://tv.woobl.ru/dom_kino_premium_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Комедия
 http://tv.woobl.ru/komedija/video.m3u8?token=test55555
@@ -500,17 +500,15 @@ http://tv.woobl.ru/komedija/video.m3u8?token=test55555
 http://tv.woobl.ru/kinopremera_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киномикс
 http://tv.woobl.ru/kinomiks/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kinomiks" catchup="flussonic" catchup-days="1" group-title="Фильмовые",Киномикс HD
+#EXTINF:-1 group-title="Фильмовые",Киномикс HD
 http://tv.woobl.ru/kinomiks_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kinokult" group-title="Фильмовые",КиноКульт HD
-http://tv.woobl.ru/kinokult_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинохит
 http://tv.woobl.ru/kinohit/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kinoxit" group-title="Фильмовые",Кинохит HD
+#EXTINF:-1 group-title="Фильмовые",Кинохит HD
 http://tv.woobl.ru/kinohit_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносерия
 http://tv.woobl.ru/kinoseriya/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kinoseria" group-title="Фильмовые",Киносерия HD
+#EXTINF:-1 group-title="Фильмовые",Киносерия HD
 http://tv.woobl.ru/kinoseriya_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносемья
 http://tv.woobl.ru/kinosemya/video.m3u8?token=test55555
@@ -524,7 +522,7 @@ http://tv.woobl.ru/kinokomediya_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/kinosvidanie/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Киносвидание HD
 http://tv.woobl.ru/kinosvidanie_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kinouzhas" group-title="Фильмовые",Киноужас HD
+#EXTINF:-1 group-title="Фильмовые",Киноужас HD
 http://tv.woobl.ru/kinouzhas_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Наше новое кино
 http://tv.woobl.ru/nashe_novoe_kino/video.m3u8?token=test55555
@@ -534,15 +532,15 @@ http://tv.woobl.ru/nashe_novoe_kino_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/rodnoe_kino/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Мужское кино
 http://tv.woobl.ru/muzhskoe_kino/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Фильмовые",Мужское кино HD
+#EXTINF:-1 group-title="Фильмовые",Мужское кино HD
 http://tv.woobl.ru/muzhskoe_kino_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Индийское кино
 http://tv.woobl.ru/indiyskoe_kino/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит
-http://tv.woobl.ru/ntv_hit/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Фильмовые",НТВ Хит HD
+#EXTINF:-1 group-title="Фильмовые",КиноКульт HD
+http://tv.woobl.ru/kinokult_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",НТВ Хит HD
 http://tv.woobl.ru/ntv_hit_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Фильмовые",НТВ Сериал HD
+#EXTINF:-1 group-title="Фильмовые",НТВ Сериал HD
 http://tv.woobl.ru/ntv_serial_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Ретро ТВ
 http://tv.woobl.ru/retro/video.m3u8?token=test55555
@@ -556,33 +554,31 @@ http://tv.woobl.ru/illyuzion_plus_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/kinopokaz/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинопоказ HD
 http://tv.woobl.ru/kinopokaz_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="nash-kinopokaz-hd" group-title="Фильмовые",Наш кинопоказ HD
+#EXTINF:-1 group-title="Фильмовые",Наш кинопоказ HD
 http://tv.woobl.ru/nash_kinopokaz_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" group-title="Фильмовые",Наше мужское HD
+#EXTINF:-1 group-title="Фильмовые",Наше мужское HD
 http://tv.woobl.ru/nashe_muzhskoe_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Хит HD
 http://tv.woobl.ru/hit_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Shot TV
 http://tv.woobl.ru/shot_tv/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="sovkino" group-title="Фильмовые",Советское кино HD
+#EXTINF:-1 group-title="Фильмовые",Советское кино HD
 http://tv.woobl.ru/sovetskoe_kino/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="zee-tv" tvg-name="Индия" group-title="Фильмовые",Индия
+#EXTINF:-1 group-title="Фильмовые",Индия
 http://tv.woobl.ru/indiya/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="zee-tv" group-title="Фильмовые",Индия HD
+#EXTINF:-1 group-title="Фильмовые",Индия HD
 http://tv.woobl.ru/indiya_hd/video.m3u8?token=test55555
-#EXTINF:-1 group-title="Фильмовые",Дорама
-http://tv.woobl.ru/dorama/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Дорама HD
 http://tv.woobl.ru/dorama_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",О, Кино!
 http://tv.woobl.ru/okino/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Ностальгия
 http://tv.woobl.ru/nostalgiya/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kinoliving" group-title="Фильмовые",KinoLiving HD
+#EXTINF:-1 group-title="Фильмовые",KinoLiving HD
 http://tv.woobl.ru/kinoliving_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",.black
 http://tv.woobl.ru/black/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="sony-turbo" group-title="Фильмовые",.black HD
+#EXTINF:-1 group-title="Фильмовые",.black HD
 http://tv.woobl.ru/black_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",.red
 http://tv.woobl.ru/red/video.m3u8?token=test55555
@@ -592,11 +588,11 @@ http://tv.woobl.ru/red_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/sci_fi/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",.sci-fi HD
 http://tv.woobl.ru/sci_fi_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="amedia1" group-title="Фильмовые",Amedia 1 HD
+#EXTINF:-1 group-title="Фильмовые",Amedia 1 HD
 http://tv.woobl.ru/amedia_1_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="amedia2" group-title="Фильмовые",Amedia 2 HD
+#EXTINF:-1 group-title="Фильмовые",Amedia 2 HD
 http://tv.woobl.ru/amedia_2_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="amedia-hit" tvg-name="Amedia Hit" group-title="Фильмовые",Amedia Hit HD
+#EXTINF:-1 group-title="Фильмовые",Amedia Hit HD
 http://tv.woobl.ru/amedia_hit_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Amedia Premium HD
 http://tv.woobl.ru/amedia_premium_hd/video.m3u8?token=test55555
@@ -604,35 +600,35 @@ http://tv.woobl.ru/amedia_premium_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/fan_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Феникс+ Кино
 http://tv.woobl.ru/feniks_plyus_kino/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмовые",Cinema
+#EXTINF:-1 group-title="Фильмовые",Cinema
 http://tv.woobl.ru/cinema/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмовые",Cinema HD
+#EXTINF:-1 group-title="Фильмовые",Cinema HD
 http://tv.woobl.ru/cinema_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 tvg-id="tvxxi" tvg-name="TV XXI" group-title="Фильмовые",ТВ 21
+#EXTINF:-1 group-title="Фильмовые",ТВ 21
 http://tv.woobl.ru/tv_21/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="tv1000" tvg-name="viju TV1000" group-title="Фильмовые",viju TV1000 HD
+#EXTINF:-1 group-title="Фильмовые",viju TV1000 HD
 http://tv.woobl.ru/viju_tv1000_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="tv1000-action" tvg-name="viju TV1000 Action HD" group-title="Фильмовые",viju TV1000 Action HD
+#EXTINF:-1 group-title="Фильмовые",viju TV1000 Action HD
 http://tv.woobl.ru/viju_tv1000_action_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-name="viju TV1000 Русское кино HD" group-title="Фильмовые",viju TV1000 Русское кино HD
+#EXTINF:-1 group-title="Фильмовые",viju TV1000 Русское кино HD
 http://tv.woobl.ru/viju_tv1000_russkoe_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Новелла" group-title="Фильмовые",viju TV1000 Новелла HD
+#EXTINF:-1 group-title="Фильмовые",viju TV1000 Новелла HD
 http://tv.woobl.ru/viju_tv1000_novella_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-name="viju TV1000 Романтика" group-title="Фильмовые",viju TV1000 Романтика HD
+#EXTINF:-1 group-title="Фильмовые",viju TV1000 Romantica HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1779036435&md5=j_DfpJ0iekRxaRmipXo5gg
-#EXTINF:-1 tvg-id="vip-comedy" tvg-name="viju+ Comedy HD" group-title="Фильмовые",viju+ Comedy HD
+#EXTINF:-1 group-title="Фильмовые",viju+ Comedy HD
 http://tv.woobl.ru/viju_plus_comedy_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="vip-megahit" tvg-name="viju+ Megabit HD" group-title="Фильмовые",viju+ Megahit HD
+#EXTINF:-1 group-title="Фильмовые",viju+ Megahit HD
 http://tv.woobl.ru/viju_plus_megahit_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="vip-premiere" tvg-name="viju+ Premiere HD" group-title="Фильмовые",viju+ Premiere HD
+#EXTINF:-1 group-title="Фильмовые",viju+ Premiere HD
 http://tv.woobl.ru/viju_plus_premiere_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="vip-serial" tvg-name="viju+ Serial HD" group-title="Фильмовые",viju+ Serial HD
+#EXTINF:-1 group-title="Фильмовые",viju+ Serial HD
 http://tv.woobl.ru/viju_plus_serial_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко
+#EXTINF:-1 group-title="Фильмовые",Кинеко
 http://tv.woobl.ru/kineko/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="kineko" group-title="Фильмовые",Кинеко HD
+#EXTINF:-1 group-title="Фильмовые",Кинеко HD
 http://tv.woobl.ru/kineko_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Сапфир
 http://tv.woobl.ru/sapfir/video.m3u8?token=test55555
@@ -648,39 +644,39 @@ http://tv.woobl.ru/russkij_bestseller/video.m3u8?token=test55555
 http://tv.woobl.ru/russkij_detektiv/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кино ТВ HD
 http://tv.woobl.ru/kino_tv_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="mir-seriala" group-title="Фильмовые",Мир сериала HD
+#EXTINF:-1 group-title="Фильмовые",Мир сериала HD
 http://tv.woobl.ru/mir_seriala_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="nst" group-title="Фильмовые",НСТ
+#EXTINF:-1 group-title="Фильмовые",НСТ
 http://tv.woobl.ru/nst/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Криминальное HD
 http://tv.woobl.ru/kriminalnoe_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Фильмовые",Любимое кино HD
+#EXTINF:-1 group-title="Фильмовые",Любимое кино HD
 http://tv.woobl.ru/nashe_ljubimoe_kino/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",FX HD
 http://tv.woobl.ru/fx_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",FX Life HD
 http://tv.woobl.ru/fx_life_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="start-air" group-title="Фильмовые",Start Air HD
+#EXTINF:-1 group-title="Фильмовые",Start Air HD
 http://tv.woobl.ru/start_air_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="start-world" group-title="Фильмовые",Start World HD
+#EXTINF:-1 group-title="Фильмовые",Start World HD
 http://tv.woobl.ru/start_world_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="saga-tv" tvg-name="Saga TV HD" group-title="Фильмовые",Saga TV HD
+#EXTINF:-1 group-title="Фильмовые",Saga TV HD
 http://tv.woobl.ru/saga_tv_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Scream HD
 http://tv.woobl.ru/scream_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Flixsnip HD
 http://tv.woobl.ru/flixsnip_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="gosfilmofond-mv" group-title="Фильмовые",Машина Времени HD
+#EXTINF:-1 group-title="Фильмовые",Машина Времени HD
 http://tv.woobl.ru/gosfilmofond_mashina_vremeni_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="bolt-ru" group-title="Фильмовые",Bolt HD
+#EXTINF:-1 group-title="Фильмовые",Bolt HD
 http://tv.woobl.ru/bolt_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Фантастика HD
 http://tv.woobl.ru/fantastika_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="no_epg" group-title="Фильмовые",Страх HD
+#EXTINF:-1 group-title="Фильмовые",Страх HD
 http://tv.woobl.ru/strah_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="hollywood" group-title="Фильмовые",Hollywood HD
+#EXTINF:-1 group-title="Фильмовые",Hollywood HD
 http://tv.woobl.ru/hollywood_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="sumiko" group-title="Фильмовые",Sumiko HD
+#EXTINF:-1 group-title="Фильмовые",Sumiko HD
 http://tv.woobl.ru/sumiko_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Akudji TV HD
 http://tv.woobl.ru/akudji_tv_hd/video.m3u8?token=test55555
@@ -688,34 +684,46 @@ http://tv.woobl.ru/akudji_tv_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/kinojam_1_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Kinojam 2 HD
 http://tv.woobl.ru/kinojam_2_hd/video.m3u8?token=test55555
-#EXTINF:-1 group-title="Фильмовые",Kion Хит HD
-http://tv.woobl.ru/kion_hit_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="star-family" tvg-name="Star Family Россия HD" group-title="Фильмовые",Star Family HD
+#EXTINF:-1 group-title="Фильмовые",Star Family HD
 http://tv.woobl.ru/star_family_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="star-cinema" group-title="Фильмовые",Star Cinema HD
+#EXTINF:-1 group-title="Фильмовые",Star Cinema HD
 http://tv.woobl.ru/star_cinema_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="horrortv" group-title="Фильмовые",Horror TV HD
+#EXTINF:-1 group-title="Фильмовые",Horror TV HD
 http://tv.woobl.ru/horror_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="novellatv" group-title="Фильмовые",Novella TV HD
+#EXTINF:-1 group-title="Фильмовые",Novella TV HD
 http://tv.woobl.ru/novella_tv_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",DetectiveJam HD
 http://tv.woobl.ru/detectivejam_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="plan-b" group-title="Фильмовые",Plan B HD
+#EXTINF:-1 group-title="Фильмовые",Plan B HD
 http://tv.woobl.ru/plan_b_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="romance" group-title="Фильмовые",Romance HD
+#EXTINF:-1 group-title="Фильмовые",Romance HD
 http://tv.woobl.ru/romance_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="suspense" group-title="Фильмовые",Suspense HD
+#EXTINF:-1 group-title="Фильмовые",Suspense HD
 http://tv.woobl.ru/suspense_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="bollywood-hd" group-title="Фильмовые",Bollywood HD
+#EXTINF:-1 group-title="Фильмовые",Bollywood HD
 http://tv.woobl.ru/bollywood_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="vhska-serial" group-title="Фильмовые",VHS-ка Сериал HD
+#EXTINF:-1 group-title="Фильмовые",VHS-ка Сериал HD
 http://tv.woobl.ru/vhs_serial_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="4k-ruskino" group-title="Фильмовые",VHS-ка Русское кино HD
+#EXTINF:-1 group-title="Фильмовые",VHS-ка Русское кино HD
 http://tv.woobl.ru/russkoe_kino_4k/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://kij-tv.ru/themes/custom/kijtv/logo.png" group-title="Фильмовые",Кино и Жизнь HD
+#EXTINF:-1 group-title="Фильмовые",Кино и Жизнь HD
 http://tv.woobl.ru/kino_i_zhizn_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Кинодром HD
 http://tv.woobl.ru/kinodrom_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Kion Хит HD
+http://tv.woobl.ru/kion_hit_hd/video.m3u8?token=test55555
+#EXTINF:-1 group-title="Фильмовые",Смотрим 100% Факты
+https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="Фильмовые",Смотрим 100% Детское
+https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Фильмовые",Смотрим 100% Праздник
+https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="Фильмовые",Смотрим 100% Классика
+https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="Фильмовые",Смотрим 100% Мужское
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="Фильмовые",Смотрим 100% Любовь
+https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://kino.zunotv.workers.dev/match_arena/index.m3u8
@@ -727,93 +735,93 @@ http://kino.zunotv.workers.dev/match_igra/index.m3u8
 http://kino.zunotv.workers.dev/match_igra_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
 http://kino.zunotv.workers.dev/match_strana/index.m3u8
-#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные",Матч! Страна HD
+#EXTINF:-1 group-title="Спортивные",Матч! Страна HD
 http://kino.zunotv.workers.dev/match_strana_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
 http://kino.zunotv.workers.dev/match_boets/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Боец HD
 http://kino.zunotv.workers.dev/match_boets_hd/index.m3u8
-#EXTINF:-1 catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Премьер HD
+#EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
 http://kino.zunotv.workers.dev/match_premier_hd/index.m3u8
-#EXTINF:-1 tvg-id="match-planeta" catchup="flussonic" tvg-name="Матч! Планета" catchup-days="1" group-title="Спортивные",Матч! Планета
+#EXTINF:-1 group-title="Спортивные",Матч! Планета
 http://kino.zunotv.workers.dev/match_planeta/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
 http://kino.zunotv.workers.dev/match_futbol_1/index.m3u8
-#EXTINF:-1 tvg-id="match-football1" catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
 http://kino.zunotv.workers.dev/match_futbol_1_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
 http://kino.zunotv.workers.dev/match_futbol_2/index.m3u8
-#EXTINF:-1 tvg-id="match-football2" catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Футбол 2 HD
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
 http://kino.zunotv.workers.dev/match_futbol_2_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
 http://kino.zunotv.workers.dev/match_futbol_3/index.m3u8
-#EXTINF:-1 tvg-id="match-football3" catchup="flussonic" catchup-days="1" group-title="Спортивные",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
 http://kino.zunotv.workers.dev/match_futbol_3_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-sport" catchup="flussonic" catchup-days="1" group-title="Спортивные",Окко Спорт HD
+#EXTINF:-1 group-title="Спортивные",Окко Спорт HD
 http://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-football" catchup="flussonic" catchup-days="1" group-title="Спортивные",Окко Футбол HD
+#EXTINF:-1 group-title="Спортивные",Окко Футбол HD
 http://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
-#EXTINF:-1 tvg-id="okko-sport-2" catchup="flussonic" catchup-days="1" group-title="Спортивные",Окко Прайм Спорт HD
+#EXTINF:-1 group-title="Спортивные",Окко Прайм Спорт HD
 http://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",KHL
 http://kino.zunotv.workers.dev/KHL/index.m3u8
-#EXTINF:-1 tvg-id="kxl" catchup="flussonic" catchup-days="1" group-title="Спортивные",KHL HD
+#EXTINF:-1 group-title="Спортивные",KHL HD
 http://kino.zunotv.workers.dev/KHL_HD/index.m3u8
-#EXTINF:-1 tvg-id="kxl-hd" catchup="flussonic" catchup-days="1" group-title="Спортивные",KHL Prime HD
+#EXTINF:-1 group-title="Спортивные",KHL Prime HD
 http://kino.zunotv.workers.dev/KHL_Prime_HD/index.m3u8
-#EXTINF:-1 tvg-id="konny-mir" group-title="Спортивные",Конный мир HD
+#EXTINF:-1 group-title="Спортивные",Конный мир HD
 http://kino.zunotv.workers.dev/konnyy_mir_hd/index.m3u8
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные",Бокс ТВ
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ
 http://kino.zunotv.workers.dev/boks/index.m3u8
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные",Бокс ТВ HD
+#EXTINF:-1 group-title="Спортивные",Бокс ТВ HD
 http://kino.zunotv.workers.dev/boks_hd/index.m3u8
-#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",MMA-TV.com
+#EXTINF:-1 group-title="Спортивные",MMA-TV.com
 http://kino.zunotv.workers.dev/mma_tvcom/index.m3u8
-#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",MMA-TV.com HD
+#EXTINF:-1 group-title="Спортивные",MMA-TV.com HD
 http://kino.zunotv.workers.dev/mma_tvcom_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
 http://kino.zunotv.workers.dev/viju_plus_sport/index.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",viju+ Sport HD
+#EXTINF:-1 group-title="Спортивные",viju+ Sport HD
 http://kino.zunotv.workers.dev/viju_plus_sport_hd/index.m3u8
-#EXTINF:-1 tvg-id="mir-basketbola" group-title="Спортивные",Мир Баскетбола HD
+#EXTINF:-1 group-title="Спортивные",Мир Баскетбола HD
 http://kino.zunotv.workers.dev/mir_basketbola_hd/index.m3u8
-#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные",Футбол
+#EXTINF:-1 group-title="Спортивные",Футбол
 http://tv.woobl.ru/futbol/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные",Футбол HD
+#EXTINF:-1 group-title="Спортивные",Футбол HD
 http://tv.woobl.ru/futbol_hd/video.m3u8?token=test55555
-#EXTINF:-1 tvg-id="eurosport1" tvg-name="Eurosport 1" group-title="Спортивные",Eurosport 1 HD
+#EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
 http://kino.zunotv.workers.dev/eurosport_1_hd/index.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="Eurosport 2" group-title="Спортивные",Eurosport 2 HD
+#EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
 http://kino.zunotv.workers.dev/eurosport_2_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
 http://kino.zunotv.workers.dev/setanta_sports_1_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
 http://kino.zunotv.workers.dev/setanta_sports_2_hd/index.m3u8
-#EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные",Setanta Казахстан HD
+#EXTINF:-1 group-title="Спортивные",Setanta Казахстан HD
 http://kino.zunotv.workers.dev/setanta_sports_qazaqstan_hd/index.m3u8
-#EXTINF:-1 tvg-id="setanta-ua" tvg-name="Setanta Sports Ukraine" group-title="Спортивные",Setanta Sports HD Украина
+#EXTINF:-1 group-title="Спортивные",Setanta Sports HD Украина
 http://kino.zunotv.workers.dev/setanta_sports_ukraine_hd/index.m3u8
-#EXTINF:-1 tvg-id="setanta-plus-ua" tvg-name="Setanta Sports+ Ukraine" group-title="Спортивные",Setanta Sports+ HD Украина
+#EXTINF:-1 group-title="Спортивные",Setanta Sports+ HD Украина
 http://kino.zunotv.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
-#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
+#EXTINF:-1 group-title="Спортивные",Старт Триумф HD
 http://kino.zunotv.workers.dev/start_triumf_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",Sky Sports Main Event HD
 http://kino.zunotv.workers.dev/sky_sports_main_event_hd/index.m3u8
-#EXTINF:-1 tvg-id="sky-sports-f1" group-title="Спортивные",Sky Sports F1 HD
+#EXTINF:-1 group-title="Спортивные",Sky Sports F1 HD
 http://kino.zunotv.workers.dev/sky_sports_f1_hd/index.m3u8
-#EXTINF:-1 tvg-id="sky-sports-cricket" tvg-name="Sky Sports Cricket HD" group-title="Спортивные",Sky Sports Cricket HD
+#EXTINF:-1 group-title="Спортивные",Sky Sports Cricket HD
 http://kino.zunotv.workers.dev/sky_sport_cricked_hd/index.m3u8
-#EXTINF:-1 tvg-id="sky-sports-football" group-title="Спортивные",Sky Sports Football HD
+#EXTINF:-1 group-title="Спортивные",Sky Sports Football HD
 http://kino.zunotv.workers.dev/sky_sport_football_hd/index.m3u8
-#EXTINF:-1 tvg-id="sky-sports-apl" group-title="Спортивные",Sky Sports Premier League HD
+#EXTINF:-1 group-title="Спортивные",Sky Sports Premier League HD
 http://kino.zunotv.workers.dev/sky_sport_premier_league_hd/index.m3u8
 #EXTINF:-1 group-title="Спортивные",NFL Network HD
 http://kino.zunotv.workers.dev/nfl_network_us/index.m3u8
-#EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар ТВ HD
+#EXTINF:-1 group-title="Спортивные",Удар ТВ HD
 http://kino.zunotv.workers.dev/udar_hd/index.m3u8
-#EXTINF:-1 tvg-id="rtvs-sport-sk" group-title="Спортивные",RTVS Sport HD [SK]
+#EXTINF:-1 group-title="Спортивные",RTVS Sport HD [SK]
 http://kino.zunotv.workers.dev/RTVS_Sport_SK/index.m3u8
-#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спортивные",Fast&FunBox HD
+#EXTINF:-1 group-title="Спортивные",Fast&FunBox HD
 http://kino.zunotv.workers.dev/FastFunBox_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
