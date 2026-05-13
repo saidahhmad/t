@@ -28,6 +28,10 @@ https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a
 http://s8.rafail1982.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Setanta Sports 2 HD
 http://s8.rafail1982.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Max TV List",Setanta Sports 1
+https://s05.watcher.uz/191/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Max TV List",Setanta Sports 2
+https://s05.watcher.uz/192/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Eurosport 1
 http://s8.rafail1982.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",MMA-TV.com
@@ -122,8 +126,10 @@ http://s8.rafail1982.uz/1033/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Da Vinci
 http://s8.rafail1982.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",СТС Kids HD
+#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",СТС Kids
 http://s8.rafail1982.uz/1437/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",СТС Kids
+https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Мама
 http://s8.rafail1982.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Мульт
@@ -273,14 +279,10 @@ http://s8.rafail1982.uz/1222/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1236/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Домашний
 http://s8.rafail1982.uz/1436/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2mBG1t2/sevimli.png"group-title="DDoS 🇺🇿",Sevimli UZ
-http://s8.rafail1982.uz/1056/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g2mBG1t2/sevimli.png"group-title="DDoS 🇺🇿",Sevimli HD UZ
 http://s8.rafail1982.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS 🇺🇿",ZOR TV UZ
-http://s8.rafail1982.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7bvMtJcF/zor.png"group-title="DDoS 🇺🇿",ZOR TV HD UZ
-https://stream1.clicktv.platform24.tv/mbrjwt/8d5f198cf6e8091678b8c2c3717549ed8b8c2a30-4783-0-clk2928894-5-3281916730-1776678284-e128-0km5j3xG-u0DCw4genhCgafPx9QF_GSmMr3_aVHJblM/1.m3u8?pid=256
+http://s8.rafail1982.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS 🇺🇿",Milliy TV UZ
 http://s8.rafail1982.uz/1216/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fbsdGKJv/milliy.png"group-title="DDoS 🇺🇿",Milliy TV HD UZ
@@ -289,7 +291,7 @@ http://s8.rafail1982.uz/1014/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1217/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NNfg7Tq/my5.png"group-title="DDoS 🇺🇿",MY5 HD UZ
 http://s8.rafail1982.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brZ3BhvZ/ftv.png"group-title="DDoS 🇺🇿",FTV HD UZ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brZ3BhvZ/ftv.png"group-title="DDoS 🇺🇿",FTV UZ
 http://s8.rafail1982.uz/1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVqkM0DC/muzuz.png"group-title="DDoS 🇺🇿",Муз ТВ UZ
 http://s8.rafail1982.uz/1063/tracks-v1a1/mono.m3u8
@@ -712,6 +714,7 @@ http://tv.woobl.ru/kino_i_zhizn_hd/video.m3u8?token=test55555
 http://tv.woobl.ru/kinodrom_hd/video.m3u8?token=test55555
 #EXTINF:-1 group-title="Фильмовые",Kion Хит HD
 http://tv.woobl.ru/kion_hit_hd/video.m3u8?token=test55555
+
 #EXTINF:-1 group-title="Фильмовые",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Фильмовые",Смотрим 100% Детское
@@ -724,6 +727,15 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="Фильмовые",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
+
+#EXTINF:-1 group-title="Фильмовые", Время
+https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
+#EXTINF:-1 group-title="Фильмовые", FilmBox
+https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые", FilmBox Arthouse
+https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые", Kinoman
+https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://kino.zunotv.workers.dev/match_arena/index.m3u8
