@@ -624,7 +624,7 @@ http://tv.woobl.ru/viju_tv1000_russkoe_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Фильмовые",viju TV1000 Новелла HD
 http://tv.woobl.ru/viju_tv1000_novella_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Фильмовые",viju TV1000 Romantica HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/playlist.m3u8?e=1779036435&md5=j_DfpJ0iekRxaRmipXo5gg
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=C5Wsi294DTigZMvRUoE5HA&e=1780163143&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 group-title="Фильмовые",viju+ Comedy HD
 http://tv.woobl.ru/viju_plus_comedy_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Фильмовые",viju+ Megahit HD
@@ -685,8 +685,6 @@ http://tv.woobl.ru/strah_hd/video.m3u8?token=woobltestlink
 http://tv.woobl.ru/hollywood_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Фильмовые",Sumiko HD
 http://tv.woobl.ru/sumiko_hd/video.m3u8?token=woobltestlink
-#EXTINF:-1 group-title="Фильмовые",Akudji TV HD
-http://tv.woobl.ru/akudji_tv_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Фильмовые",Kinojam 1 HD
 http://tv.woobl.ru/kinojam_1_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Фильмовые",Kinojam 2 HD
@@ -743,103 +741,103 @@ https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
-http://kino.zunotv.workers.dev/match_arena/index.m3u8
+http://tv.woobl.ru/match_arena/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Арена HD
-http://kino.zunotv.workers.dev/match_arena_hd/index.m3u8
+http://tv.woobl.ru/match_arena_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Игра
-http://kino.zunotv.workers.dev/match_igra/index.m3u8
+http://tv.woobl.ru/match_igra/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Игра HD
-http://kino.zunotv.workers.dev/match_igra_hd/index.m3u8
+http://tv.woobl.ru/match_igra_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Страна
-http://kino.zunotv.workers.dev/match_strana/index.m3u8
+http://tv.woobl.ru/match_strana/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Страна HD
-http://kino.zunotv.workers.dev/match_strana_hd/index.m3u8
+http://tv.woobl.ru/match_strana_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Боец
-http://kino.zunotv.workers.dev/match_boets/index.m3u8
+http://tv.woobl.ru/match_boets/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Боец HD
-http://kino.zunotv.workers.dev/match_boets_hd/index.m3u8
+http://tv.woobl.ru/match_boets_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Премьер HD
-http://kino.zunotv.workers.dev/match_premier_hd/index.m3u8
+http://tv.woobl.ru/match_premier_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Планета
-http://kino.zunotv.workers.dev/match_planeta/index.m3u8
+http://tv.woobl.ru/match_planeta/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1
-http://kino.zunotv.workers.dev/match_futbol_1/index.m3u8
+http://tv.woobl.ru/match_futbol_1/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 1 HD
-http://kino.zunotv.workers.dev/match_futbol_1_hd/index.m3u8
+http://tv.woobl.ru/match_futbol_1_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2
-http://kino.zunotv.workers.dev/match_futbol_2/index.m3u8
+http://tv.woobl.ru/match_futbol_2/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 2 HD
-http://kino.zunotv.workers.dev/match_futbol_2_hd/index.m3u8
+http://tv.woobl.ru/match_futbol_2_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3
-http://kino.zunotv.workers.dev/match_futbol_3/index.m3u8
+http://tv.woobl.ru/match_futbol_3/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 HD
-http://kino.zunotv.workers.dev/match_futbol_3_hd/index.m3u8
+http://tv.woobl.ru/match_futbol_3_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Окко Спорт HD
-http://kino.zunotv.workers.dev/okko_sport_hd/index.m3u8
+http://tv.woobl.ru/okko_sport_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Окко Футбол HD
-http://kino.zunotv.workers.dev/okko_futbol_hd/index.m3u8
+http://tv.woobl.ru/okko_futbol_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Окко Прайм Спорт HD
-http://kino.zunotv.workers.dev/okko_praym_sport_hd/index.m3u8
+http://tv.woobl.ru/okko_praym_sport_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",KHL
-http://kino.zunotv.workers.dev/KHL/index.m3u8
+http://tv.woobl.ru/KHL/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",KHL HD
-http://kino.zunotv.workers.dev/KHL_HD/index.m3u8
+http://tv.woobl.ru/KHL_HD/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",KHL Prime HD
-http://kino.zunotv.workers.dev/KHL_Prime_HD/index.m3u8
+http://tv.woobl.ru/KHL_Prime_HD/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Конный мир HD
-http://kino.zunotv.workers.dev/konnyy_mir_hd/index.m3u8
+http://tv.woobl.ru/konnyy_mir_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ
-http://kino.zunotv.workers.dev/boks/index.m3u8
+http://tv.woobl.ru/boks/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Бокс ТВ HD
-http://kino.zunotv.workers.dev/boks_hd/index.m3u8
+http://tv.woobl.ru/boks_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",MMA-TV.com
-http://kino.zunotv.workers.dev/mma_tvcom/index.m3u8
+http://tv.woobl.ru/mma_tvcom/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",MMA-TV.com HD
-http://kino.zunotv.workers.dev/mma_tvcom_hd/index.m3u8
+http://tv.woobl.ru/mma_tvcom_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",viju+ Sport
-http://kino.zunotv.workers.dev/viju_plus_sport/index.m3u8
+http://tv.woobl.ru/viju_plus_sport/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",viju+ Sport HD
-http://kino.zunotv.workers.dev/viju_plus_sport_hd/index.m3u8
+http://tv.woobl.ru/viju_plus_sport_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Мир Баскетбола HD
-http://kino.zunotv.workers.dev/mir_basketbola_hd/index.m3u8
+http://tv.woobl.ru/mir_basketbola_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Футбол
 http://tv.woobl.ru/futbol/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Футбол HD
 http://tv.woobl.ru/futbol_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Eurosport 1 HD
-http://kino.zunotv.workers.dev/eurosport_1_hd/index.m3u8
+http://tv.woobl.ru/eurosport_1_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Eurosport 2 HD
-http://kino.zunotv.workers.dev/eurosport_2_hd/index.m3u8
+http://tv.woobl.ru/eurosport_2_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 1 HD
-http://kino.zunotv.workers.dev/setanta_sports_1_hd/index.m3u8
+http://tv.woobl.ru/setanta_sports_1_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Setanta Sports 2 HD
-http://kino.zunotv.workers.dev/setanta_sports_2_hd/index.m3u8
+http://tv.woobl.ru/setanta_sports_2_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Setanta Казахстан HD
-http://kino.zunotv.workers.dev/setanta_sports_qazaqstan_hd/index.m3u8
+http://tv.woobl.ru/setanta_sports_qazaqstan_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Setanta Sports HD Украина
-http://kino.zunotv.workers.dev/setanta_sports_ukraine_hd/index.m3u8
+http://tv.woobl.ru/setanta_sports_ukraine_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Setanta Sports+ HD Украина
-http://kino.zunotv.workers.dev/setanta_sports_plus_ukraine_hd/index.m3u8
+http://tv.woobl.ru/setanta_sports_plus_ukraine_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Старт Триумф HD
-http://kino.zunotv.workers.dev/start_triumf_hd/index.m3u8
+http://tv.woobl.ru/start_triumf_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Sky Sports Main Event HD
-http://kino.zunotv.workers.dev/sky_sports_main_event_hd/index.m3u8
+http://tv.woobl.ru/sky_sports_main_event_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Sky Sports F1 HD
-http://kino.zunotv.workers.dev/sky_sports_f1_hd/index.m3u8
+http://tv.woobl.ru/sky_sports_f1_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Sky Sports Cricket HD
-http://kino.zunotv.workers.dev/sky_sport_cricked_hd/index.m3u8
+http://tv.woobl.ru/sky_sport_cricked_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Sky Sports Football HD
-http://kino.zunotv.workers.dev/sky_sport_football_hd/index.m3u8
+http://tv.woobl.ru/sky_sport_football_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Sky Sports Premier League HD
-http://kino.zunotv.workers.dev/sky_sport_premier_league_hd/index.m3u8
+http://tv.woobl.ru/sky_sport_premier_league_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",NFL Network HD
-http://kino.zunotv.workers.dev/nfl_network_us/index.m3u8
+http://tv.woobl.ru/nfl_network_us/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Удар ТВ HD
-http://kino.zunotv.workers.dev/udar_hd/index.m3u8
+http://tv.woobl.ru/udar_hd/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",RTVS Sport HD [SK]
-http://kino.zunotv.workers.dev/RTVS_Sport_SK/index.m3u8
+http://tv.woobl.ru/RTVS_Sport_SK/video.m3u8?token=woobltestlink
 #EXTINF:-1 group-title="Спортивные",Fast&FunBox HD
-http://kino.zunotv.workers.dev/FastFunBox_HD/index.m3u8
+http://tv.woobl.ru/FastFunBox_HDvideo.m3u8?token=woobltestlink
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
 https://stream8.cinerama.uz/1001/playlist.m3u8
