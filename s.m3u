@@ -15,8 +15,6 @@ http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 http://77.46.130.252:99/private
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Redlight HD
 http://78.130.250.2:8023/play/a05q/index.m3u8
-#EXTINF:-1 group-title="Эротика" audio-track="rus", XY Max
-http://79.124.21.250:8199/play/DiemaSport/index.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 group-title="Эротика", Babes TV HD
@@ -43,8 +41,6 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 http://141.95.55.143/CH3517/index.m3u8
 #EXTINF:-1 group-title="Эротика", Playboy TV HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="Эротика", Private SD
-http://213.169.39.30:5036
 #EXTINF:-1 group-title="Эротика", Reality Kings TV HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
