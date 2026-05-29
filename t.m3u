@@ -148,7 +148,7 @@ http://s8.rafail1982.uz/1445/tracks-v1a1/mono.m3u8
 http://s8.rafail1982.uz/1425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist_w1832680195_b3626591.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",Nickelodeon
@@ -453,6 +453,32 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿",Звезда Плюс
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Соловьев Live
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Лен ТВ 24
+https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Смотрим Live
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Известия
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", 360°
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", 360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", ТОЛК
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", РБК
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Univer TV
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="DDoS 🇺🇿", Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 #EXTINF:-1 group-title="Rutube (VPN)",Rutube TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -469,9 +495,6 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=c1
 #EXTINF:-1 group-title="Rutube (VPN)",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=YlkMOtYKsVCxKG3pOuNrKQ&e=2071314920&scheme=https
-#EXTINF:-1 group-title="Rutube (VPN)",Москва 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://bl.rutube.ru/livestream/ca70d39eba2e8771358bbcb4bfbad860/index.m3u8?s=wceeUp4GCA6WJdyyWF3BXQ&e=2071314920&scheme=https
 #EXTINF:-1 group-title="Rutube (VPN)",Пятница HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=oGmX4yjW4af6Yza3UkaTRQ&e=2071314920&scheme=https
@@ -732,15 +755,6 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="Фильмовые",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
-
-#EXTINF:-1 group-title="Фильмовые", Время
-https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
-#EXTINF:-1 group-title="Фильмовые", FilmBox
-https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
-#EXTINF:-1 group-title="Фильмовые", FilmBox Arthouse
-https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
-#EXTINF:-1 group-title="Фильмовые", Kinoman
-https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные",Матч! Арена
 http://kino.zunotv.workers.dev/match_arena/index.m3u8
