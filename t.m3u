@@ -459,7 +459,7 @@ https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Лен ТВ 24
 https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
-#EXTINF:-1 group-title="DDoS 🇺🇿", Смотрим Live
+#EXTINF:-1 group-title="DDoS 🇺🇿", Честный детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 group-title="DDoS 🇺🇿", Известия
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
@@ -856,4 +856,6 @@ http://kino.zunotv.workers.dev/RTVS_Sport_SK/index.m3u8
 http://kino.zunotv.workers.dev/FastFunBox_HDindex.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
-https://stream8.cinerama.uz/1001/playlist.m3u8
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="DDoS 🇺🇿",test
+http://s8.rafail1982.uz/1001/tracks-v1a1/mono.m3u8
