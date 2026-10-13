@@ -87,11 +87,11 @@ https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="DDoS",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
 
-#EXTINF:-1, Россия 24
+#EXTINF:-1 group-title="DDoS", Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
-#EXTINF:-1, Россия-К
+#EXTINF:-1 group-title="DDoS", Россия-К
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
-#EXTINF:-1, Россия 1
+#EXTINF:-1 group-title="DDoS", Россия 1
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 group-title="DDoS",Rutube TV
